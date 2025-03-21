@@ -1,0 +1,65 @@
+name: Scrape
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+  # Daily at 6:23 AM UTC
+  - cron: '23 6 * * *'
+  # For hourly at 42 minutes past the hour: '42 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    if: ${{ !github.event.repository.is_template }}
+    steps:
+    - uses: actions/checkout@v4
+    - name: Create scrape.sh if it doesn't exist
+      run: |
+        if [ ! -f "scrape.sh" ]; then
+          echo '#!/bin/bash' > scrape.sh
+          if [[ "$REPO_DESC" == http://* ]] || [[ "$REPO_DESC" == https://* ]]; then
+            echo "./download.sh '$REPO_DESC'" >> scrape.sh
+          else
+            echo "# ./download.sh 'https://www.example.com/'" >> scrape.sh
+          fi
+          chmod +x scrape.sh
+          echo "Created scrape.sh"
+          # And replace README.md
+          echo -e "# Scheduled scraper\n\nFor $REPO_DESC" > README.md 
+        fi
+      env:
+        REPO_DESC: ${{ github.event.repository.description }}
+    # Uncomment to use Python:
+    # - name: Set up Python 3.13
+    #   uses: actions/setup-python@v5
+    #   with:
+    #     python-version: "3.13"
+    #     cache: "pip"
+    # - name: Install dependencies
+    #   run: |
+    #     pip install -r requirements.txt
+    # Uncomment to use Playwright via shot-scraper (put shot-scraper in requirements.txt):
+    # - name: Cache Playwright browsers
+    #   uses: actions/cache@v4
+    #   with:
+    #     path: ~/.cache/ms-playwright/
+    #     key: ${{ runner.os }}-browsers
+    # - name: Install Playwright dependencies
+    #   run: |
+    #     shot-scraper install
+    - name: Run the scraper
+      run: |
+        ./scrape.sh
+    - name: Commit and push
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "${timestamp}" || exit 0
+        git pull --rebase
+        git push
