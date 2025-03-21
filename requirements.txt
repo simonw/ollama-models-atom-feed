@@ -1,0 +1,4 @@
+click
+beautifulsoup4
+requests
+lxml
