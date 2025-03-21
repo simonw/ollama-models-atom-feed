@@ -29,7 +29,6 @@ def create_atom_feed(soup, base_url):
     # Add feed metadata
     ET.SubElement(feed, "title").text = "Ollama models"
     ET.SubElement(feed, "id").text = base_url
-    ET.SubElement(feed, "updated").text = datetime.now().isoformat()
     author = ET.SubElement(feed, "author")
     ET.SubElement(author, "name").text = "Model Library"
     ET.SubElement(feed, "link", href=base_url, rel="self")
