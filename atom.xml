@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Ollama models</title>
   <id>https://ollama.com/search?o=newest</id>
-  <updated>2025-03-21T18:46:50.788023</updated>
+  <updated>2025-03-21T18:48:05.062996</updated>
   <author>
     <name>Model Library</name>
   </author>
@@ -16,7 +16,7 @@
     <category term="2.4b"/>
     <category term="7.8b"/>
     <category term="32b"/>
-    <content type="html">&lt;p&gt;EXAONE Deep exhibits superior capabilities in various reasoning tasks including math and coding benchmarks, ranging from 2.4B to 32B parameters developed and released by LG AI Research.&lt;/p&gt;&lt;p&gt;Pulls: 6,486&lt;/p&gt;&lt;p&gt;Tags: 13&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;EXAONE Deep exhibits superior capabilities in various reasoning tasks including math and coding benchmarks, ranging from 2.4B to 32B parameters developed and released by LG AI Research.&lt;/p&gt;&lt;p&gt;Pulls: 6,487&lt;/p&gt;&lt;p&gt;Tags: 13&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>command-a</title>
@@ -515,7 +515,7 @@
     <updated>2024-11-18T07:03:00</updated>
     <category term="8b"/>
     <category term="vision"/>
-    <content type="html">&lt;p&gt;A series of multimodal LLMs (MLLMs) designed for vision-language understanding.&lt;/p&gt;&lt;p&gt;Pulls: 663.3K&lt;/p&gt;&lt;p&gt;Tags: 17&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A series of multimodal LLMs (MLLMs) designed for vision-language understanding.&lt;/p&gt;&lt;p&gt;Pulls: 663.4K&lt;/p&gt;&lt;p&gt;Tags: 17&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>deepseek-v2.5</title>
@@ -832,7 +832,7 @@
     <updated>2024-05-07T21:01:00</updated>
     <category term="8b"/>
     <category term="vision"/>
-    <content type="html">&lt;p&gt;A LLaVA model fine-tuned from Llama 3 Instruct with better scores in several benchmarks.&lt;/p&gt;&lt;p&gt;Pulls: 511.4K&lt;/p&gt;&lt;p&gt;Tags: 4&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A LLaVA model fine-tuned from Llama 3 Instruct with better scores in several benchmarks.&lt;/p&gt;&lt;p&gt;Pulls: 511.5K&lt;/p&gt;&lt;p&gt;Tags: 4&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>llama3-gradient</title>
