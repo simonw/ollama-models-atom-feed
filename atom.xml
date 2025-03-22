@@ -15,7 +15,7 @@
     <category term="2.4b"/>
     <category term="7.8b"/>
     <category term="32b"/>
-    <content type="html">&lt;p&gt;EXAONE Deep exhibits superior capabilities in various reasoning tasks including math and coding benchmarks, ranging from 2.4B to 32B parameters developed and released by LG AI Research.&lt;/p&gt;&lt;p&gt;Pulls: 6,487&lt;/p&gt;&lt;p&gt;Tags: 13&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;EXAONE Deep exhibits superior capabilities in various reasoning tasks including math and coding benchmarks, ranging from 2.4B to 32B parameters developed and released by LG AI Research.&lt;/p&gt;&lt;p&gt;Pulls: 7,490&lt;/p&gt;&lt;p&gt;Tags: 13&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>command-a</title>
@@ -25,7 +25,7 @@
     <updated>2025-03-13T12:39:00</updated>
     <category term="111b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;111 billion parameter model optimized for demanding enterprises that require fast, secure, and high-quality AI&lt;/p&gt;&lt;p&gt;Pulls: 3,148&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;111 billion parameter model optimized for demanding enterprises that require fast, secure, and high-quality AI&lt;/p&gt;&lt;p&gt;Pulls: 3,255&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemma3</title>
@@ -48,7 +48,7 @@
     <updated>2025-02-28T21:28:00</updated>
     <category term="7b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;A new state-of-the-art version of the lightweight Command R7B model that excels in advanced Arabic language capabilities for enterprises in the Middle East and Northern Africa.&lt;/p&gt;&lt;p&gt;Pulls: 3,896&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A new state-of-the-art version of the lightweight Command R7B model that excels in advanced Arabic language capabilities for enterprises in the Middle East and Northern Africa.&lt;/p&gt;&lt;p&gt;Pulls: 3,906&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>granite3.2-vision</title>
@@ -59,7 +59,7 @@
     <category term="2b"/>
     <category term="vision"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;A compact and efficient vision-language model, specifically designed for visual document understanding, enabling automated content extraction from tables, charts, infographics, plots, diagrams, and more.&lt;/p&gt;&lt;p&gt;Pulls: 26.7K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A compact and efficient vision-language model, specifically designed for visual document understanding, enabling automated content extraction from tables, charts, infographics, plots, diagrams, and more.&lt;/p&gt;&lt;p&gt;Pulls: 26.9K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>phi4-mini</title>
@@ -69,7 +69,7 @@
     <updated>2025-02-28T20:02:00</updated>
     <category term="3.8b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;Phi-4-mini brings significant enhancements in multilingual support, reasoning, and mathematics, and now, the long-awaited function calling feature is finally supported.&lt;/p&gt;&lt;p&gt;Pulls: 78.6K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Phi-4-mini brings significant enhancements in multilingual support, reasoning, and mathematics, and now, the long-awaited function calling feature is finally supported.&lt;/p&gt;&lt;p&gt;Pulls: 78.9K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>granite3.2</title>
@@ -80,7 +80,7 @@
     <category term="2b"/>
     <category term="8b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;Granite-3.2 is a family of long-context AI models from IBM Granite fine-tuned for thinking capabilities.&lt;/p&gt;&lt;p&gt;Pulls: 47.5K&lt;/p&gt;&lt;p&gt;Tags: 9&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Granite-3.2 is a family of long-context AI models from IBM Granite fine-tuned for thinking capabilities.&lt;/p&gt;&lt;p&gt;Pulls: 47.7K&lt;/p&gt;&lt;p&gt;Tags: 9&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>r1-1776</title>
@@ -90,7 +90,7 @@
     <updated>2025-02-21T15:28:00</updated>
     <category term="70b"/>
     <category term="671b"/>
-    <content type="html">&lt;p&gt;A version of the DeepSeek-R1 model that has been post trained to provide unbiased, accurate, and factual information by Perplexity.&lt;/p&gt;&lt;p&gt;Pulls: 18.4K&lt;/p&gt;&lt;p&gt;Tags: 9&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A version of the DeepSeek-R1 model that has been post trained to provide unbiased, accurate, and factual information by Perplexity.&lt;/p&gt;&lt;p&gt;Pulls: 18.5K&lt;/p&gt;&lt;p&gt;Tags: 9&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>deepscaler</title>
@@ -99,7 +99,7 @@
     <summary>A fine-tuned version of Deepseek-R1-Distilled-Qwen-1.5B that surpasses the performance of OpenAI’s o1-preview with just 1.5B parameters on popular math evaluations.</summary>
     <updated>2025-02-12T01:53:00</updated>
     <category term="1.5b"/>
-    <content type="html">&lt;p&gt;A fine-tuned version of Deepseek-R1-Distilled-Qwen-1.5B that surpasses the performance of OpenAI’s o1-preview with just 1.5B parameters on popular math evaluations.&lt;/p&gt;&lt;p&gt;Pulls: 69.1K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A fine-tuned version of Deepseek-R1-Distilled-Qwen-1.5B that surpasses the performance of OpenAI’s o1-preview with just 1.5B parameters on popular math evaluations.&lt;/p&gt;&lt;p&gt;Pulls: 69.2K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>openthinker</title>
@@ -109,7 +109,7 @@
     <updated>2025-02-12T19:26:00</updated>
     <category term="7b"/>
     <category term="32b"/>
-    <content type="html">&lt;p&gt;A fully open-source family of reasoning models built using a dataset derived by distilling DeepSeek-R1.&lt;/p&gt;&lt;p&gt;Pulls: 513.1K&lt;/p&gt;&lt;p&gt;Tags: 9&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A fully open-source family of reasoning models built using a dataset derived by distilling DeepSeek-R1.&lt;/p&gt;&lt;p&gt;Pulls: 513.2K&lt;/p&gt;&lt;p&gt;Tags: 9&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>deepseek-r1</title>
@@ -124,7 +124,7 @@
     <category term="32b"/>
     <category term="70b"/>
     <category term="671b"/>
-    <content type="html">&lt;p&gt;DeepSeek's first-generation of reasoning models with comparable performance to OpenAI-o1, including six dense models distilled from DeepSeek-R1 based on Llama and Qwen.&lt;/p&gt;&lt;p&gt;Pulls: 28.9M&lt;/p&gt;&lt;p&gt;Tags: 29&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;DeepSeek's first-generation of reasoning models with comparable performance to OpenAI-o1, including six dense models distilled from DeepSeek-R1 based on Llama and Qwen.&lt;/p&gt;&lt;p&gt;Pulls: 29M&lt;/p&gt;&lt;p&gt;Tags: 29&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>olmo2</title>
@@ -134,7 +134,7 @@
     <updated>2025-01-11T22:43:00</updated>
     <category term="7b"/>
     <category term="13b"/>
-    <content type="html">&lt;p&gt;OLMo 2 is a new family of 7B and 13B models trained on up to 5T tokens. These models are on par with or better than equivalently sized fully open models, and competitive with open-weight models such as Llama 3.1 on English academic benchmarks.&lt;/p&gt;&lt;p&gt;Pulls: 471.5K&lt;/p&gt;&lt;p&gt;Tags: 9&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;OLMo 2 is a new family of 7B and 13B models trained on up to 5T tokens. These models are on par with or better than equivalently sized fully open models, and competitive with open-weight models such as Llama 3.1 on English academic benchmarks.&lt;/p&gt;&lt;p&gt;Pulls: 474.2K&lt;/p&gt;&lt;p&gt;Tags: 9&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>command-r7b</title>
@@ -153,7 +153,7 @@
     <summary>A strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token.</summary>
     <updated>2025-01-13T17:16:00</updated>
     <category term="671b"/>
-    <content type="html">&lt;p&gt;A strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token.&lt;/p&gt;&lt;p&gt;Pulls: 790.4K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token.&lt;/p&gt;&lt;p&gt;Pulls: 796.3K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>phi4</title>
@@ -171,7 +171,7 @@
     <summary>Dolphin 3.0 Llama 3.1 8B 🐬 is the next generation of the Dolphin series of instruct-tuned models designed to be the ultimate general purpose local model, enabling coding, math, agentic, function calling, and general use cases.</summary>
     <updated>2025-01-05T19:38:00</updated>
     <category term="8b"/>
-    <content type="html">&lt;p&gt;Dolphin 3.0 Llama 3.1 8B 🐬 is the next generation of the Dolphin series of instruct-tuned models designed to be the ultimate general purpose local model, enabling coding, math, agentic, function calling, and general use cases.&lt;/p&gt;&lt;p&gt;Pulls: 507.9K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Dolphin 3.0 Llama 3.1 8B 🐬 is the next generation of the Dolphin series of instruct-tuned models designed to be the ultimate general purpose local model, enabling coding, math, agentic, function calling, and general use cases.&lt;/p&gt;&lt;p&gt;Pulls: 510.8K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>smallthinker</title>
@@ -180,7 +180,7 @@
     <summary>A new small reasoning model fine-tuned from the Qwen 2.5 3B Instruct model.</summary>
     <updated>2024-12-30T21:33:00</updated>
     <category term="3b"/>
-    <content type="html">&lt;p&gt;A new small reasoning model fine-tuned from the Qwen 2.5 3B Instruct model.&lt;/p&gt;&lt;p&gt;Pulls: 49.4K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A new small reasoning model fine-tuned from the Qwen 2.5 3B Instruct model.&lt;/p&gt;&lt;p&gt;Pulls: 49.5K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>granite3.1-dense</title>
@@ -225,7 +225,7 @@
     <category term="30m"/>
     <category term="278m"/>
     <category term="embedding"/>
-    <content type="html">&lt;p&gt;The IBM Granite Embedding 30M and 278M models models are text-only dense biencoder embedding models, with 30M available in English only and 278M serving multilingual use cases.&lt;/p&gt;&lt;p&gt;Pulls: 24.9K&lt;/p&gt;&lt;p&gt;Tags: 6&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;The IBM Granite Embedding 30M and 278M models models are text-only dense biencoder embedding models, with 30M available in English only and 278M serving multilingual use cases.&lt;/p&gt;&lt;p&gt;Pulls: 25.1K&lt;/p&gt;&lt;p&gt;Tags: 6&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>exaone3.5</title>
@@ -236,7 +236,7 @@
     <category term="2.4b"/>
     <category term="7.8b"/>
     <category term="32b"/>
-    <content type="html">&lt;p&gt;EXAONE 3.5 is a collection of instruction-tuned bilingual (English and Korean) generative models ranging from 2.4B to 32B parameters, developed and released by LG AI Research.&lt;/p&gt;&lt;p&gt;Pulls: 31.4K&lt;/p&gt;&lt;p&gt;Tags: 13&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;EXAONE 3.5 is a collection of instruction-tuned bilingual (English and Korean) generative models ranging from 2.4B to 32B parameters, developed and released by LG AI Research.&lt;/p&gt;&lt;p&gt;Pulls: 31.5K&lt;/p&gt;&lt;p&gt;Tags: 13&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>llama3.3</title>
@@ -256,7 +256,7 @@
     <updated>2024-12-04T23:57:00</updated>
     <category term="568m"/>
     <category term="embedding"/>
-    <content type="html">&lt;p&gt;Snowflake's frontier embedding model. Arctic Embed 2.0 adds multilingual support without sacrificing English performance or scalability.&lt;/p&gt;&lt;p&gt;Pulls: 42.9K&lt;/p&gt;&lt;p&gt;Tags: 3&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Snowflake's frontier embedding model. Arctic Embed 2.0 adds multilingual support without sacrificing English performance or scalability.&lt;/p&gt;&lt;p&gt;Pulls: 44.4K&lt;/p&gt;&lt;p&gt;Tags: 3&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>sailor2</title>
@@ -296,7 +296,7 @@
     <updated>2024-12-21T03:58:00</updated>
     <category term="8b"/>
     <category term="70b"/>
-    <content type="html">&lt;p&gt;Tülu 3 is a leading instruction following model family, offering fully open-source data, code, and recipes by the The Allen Institute for AI.&lt;/p&gt;&lt;p&gt;Pulls: 21.1K&lt;/p&gt;&lt;p&gt;Tags: 9&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Tülu 3 is a leading instruction following model family, offering fully open-source data, code, and recipes by the The Allen Institute for AI.&lt;/p&gt;&lt;p&gt;Pulls: 21.2K&lt;/p&gt;&lt;p&gt;Tags: 9&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>athene-v2</title>
@@ -339,7 +339,7 @@
     <category term="360m"/>
     <category term="1.7b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;SmolLM2 is a family of compact language models available in three size: 135M, 360M, and 1.7B parameters.&lt;/p&gt;&lt;p&gt;Pulls: 433.8K&lt;/p&gt;&lt;p&gt;Tags: 49&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;SmolLM2 is a family of compact language models available in three size: 135M, 360M, and 1.7B parameters.&lt;/p&gt;&lt;p&gt;Pulls: 435.4K&lt;/p&gt;&lt;p&gt;Tags: 49&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>granite3-guardian</title>
@@ -371,7 +371,7 @@
     <category term="2b"/>
     <category term="8b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;The IBM Granite 2B and 8B models are designed to support tool-based use cases and support for retrieval augmented generation (RAG), streamlining code generation, translation and bug fixing.&lt;/p&gt;&lt;p&gt;Pulls: 60.3K&lt;/p&gt;&lt;p&gt;Tags: 33&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;The IBM Granite 2B and 8B models are designed to support tool-based use cases and support for retrieval augmented generation (RAG), streamlining code generation, translation and bug fixing.&lt;/p&gt;&lt;p&gt;Pulls: 60.5K&lt;/p&gt;&lt;p&gt;Tags: 33&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>granite3-moe</title>
@@ -403,7 +403,7 @@
     <category term="2b"/>
     <category term="9b"/>
     <category term="27b"/>
-    <content type="html">&lt;p&gt;ShieldGemma is set of instruction tuned models for evaluating the safety of text prompt input and text output responses against a set of defined safety policies.&lt;/p&gt;&lt;p&gt;Pulls: 37K&lt;/p&gt;&lt;p&gt;Tags: 49&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;ShieldGemma is set of instruction tuned models for evaluating the safety of text prompt input and text output responses against a set of defined safety policies.&lt;/p&gt;&lt;p&gt;Pulls: 37.1K&lt;/p&gt;&lt;p&gt;Tags: 49&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>llama-guard3</title>
@@ -494,7 +494,7 @@
     <category term="22b"/>
     <category term="24b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;Mistral Small 3 sets a new benchmark in the “small” Large Language Models category below 70B.&lt;/p&gt;&lt;p&gt;Pulls: 366.2K&lt;/p&gt;&lt;p&gt;Tags: 21&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Mistral Small 3 sets a new benchmark in the “small” Large Language Models category below 70B.&lt;/p&gt;&lt;p&gt;Pulls: 368K&lt;/p&gt;&lt;p&gt;Tags: 21&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>reader-lm</title>
@@ -514,7 +514,7 @@
     <updated>2024-11-18T07:03:00</updated>
     <category term="8b"/>
     <category term="vision"/>
-    <content type="html">&lt;p&gt;A series of multimodal LLMs (MLLMs) designed for vision-language understanding.&lt;/p&gt;&lt;p&gt;Pulls: 663.4K&lt;/p&gt;&lt;p&gt;Tags: 17&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A series of multimodal LLMs (MLLMs) designed for vision-language understanding.&lt;/p&gt;&lt;p&gt;Pulls: 666.3K&lt;/p&gt;&lt;p&gt;Tags: 17&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>deepseek-v2.5</title>
@@ -566,7 +566,7 @@
     <category term="70b"/>
     <category term="405b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;Hermes 3 is the latest version of the flagship Hermes series of LLMs by Nous Research&lt;/p&gt;&lt;p&gt;Pulls: 267.3K&lt;/p&gt;&lt;p&gt;Tags: 65&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Hermes 3 is the latest version of the flagship Hermes series of LLMs by Nous Research&lt;/p&gt;&lt;p&gt;Pulls: 267.4K&lt;/p&gt;&lt;p&gt;Tags: 65&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>phi3.5</title>
@@ -575,7 +575,7 @@
     <summary>A lightweight AI model with 3.8 billion parameters with performance overtaking similarly and larger sized models.</summary>
     <updated>2024-09-05T19:00:00</updated>
     <category term="3.8b"/>
-    <content type="html">&lt;p&gt;A lightweight AI model with 3.8 billion parameters with performance overtaking similarly and larger sized models.&lt;/p&gt;&lt;p&gt;Pulls: 253.8K&lt;/p&gt;&lt;p&gt;Tags: 17&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A lightweight AI model with 3.8 billion parameters with performance overtaking similarly and larger sized models.&lt;/p&gt;&lt;p&gt;Pulls: 253.9K&lt;/p&gt;&lt;p&gt;Tags: 17&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>smollm</title>
@@ -586,7 +586,7 @@
     <category term="135m"/>
     <category term="360m"/>
     <category term="1.7b"/>
-    <content type="html">&lt;p&gt;🪐 A family of small models with 135M, 360M, and 1.7B parameters, trained on a new high-quality dataset.&lt;/p&gt;&lt;p&gt;Pulls: 196.8K&lt;/p&gt;&lt;p&gt;Tags: 94&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;🪐 A family of small models with 135M, 360M, and 1.7B parameters, trained on a new high-quality dataset.&lt;/p&gt;&lt;p&gt;Pulls: 197.1K&lt;/p&gt;&lt;p&gt;Tags: 94&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>bge-large</title>
@@ -596,7 +596,7 @@
     <updated>2024-08-07T00:04:00</updated>
     <category term="335m"/>
     <category term="embedding"/>
-    <content type="html">&lt;p&gt;Embedding model from BAAI mapping texts to vectors.&lt;/p&gt;&lt;p&gt;Pulls: 92.3K&lt;/p&gt;&lt;p&gt;Tags: 3&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Embedding model from BAAI mapping texts to vectors.&lt;/p&gt;&lt;p&gt;Pulls: 92.4K&lt;/p&gt;&lt;p&gt;Tags: 3&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>paraphrase-multilingual</title>
@@ -616,7 +616,7 @@
     <updated>2024-08-07T00:07:00</updated>
     <category term="567m"/>
     <category term="embedding"/>
-    <content type="html">&lt;p&gt;BGE-M3 is a new model from BAAI distinguished for its versatility in Multi-Functionality, Multi-Linguality, and Multi-Granularity.&lt;/p&gt;&lt;p&gt;Pulls: 666.2K&lt;/p&gt;&lt;p&gt;Tags: 3&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;BGE-M3 is a new model from BAAI distinguished for its versatility in Multi-Functionality, Multi-Linguality, and Multi-Granularity.&lt;/p&gt;&lt;p&gt;Pulls: 670.3K&lt;/p&gt;&lt;p&gt;Tags: 3&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>mistral-large</title>
@@ -638,7 +638,7 @@
     <category term="70b"/>
     <category term="405b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;Llama 3.1 is a new state-of-the-art model from Meta available in 8B, 70B and 405B parameter sizes.&lt;/p&gt;&lt;p&gt;Pulls: 42.3M&lt;/p&gt;&lt;p&gt;Tags: 93&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Llama 3.1 is a new state-of-the-art model from Meta available in 8B, 70B and 405B parameter sizes.&lt;/p&gt;&lt;p&gt;Pulls: 43.5M&lt;/p&gt;&lt;p&gt;Tags: 93&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>nuextract</title>
@@ -647,7 +647,7 @@
     <summary>A 3.8B model fine-tuned on a private high-quality synthetic dataset for information extraction, based on Phi-3.</summary>
     <updated>2024-07-22T23:54:00</updated>
     <category term="3.8b"/>
-    <content type="html">&lt;p&gt;A 3.8B model fine-tuned on a private high-quality synthetic dataset for information extraction, based on Phi-3.&lt;/p&gt;&lt;p&gt;Pulls: 27.2K&lt;/p&gt;&lt;p&gt;Tags: 17&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A 3.8B model fine-tuned on a private high-quality synthetic dataset for information extraction, based on Phi-3.&lt;/p&gt;&lt;p&gt;Pulls: 27.3K&lt;/p&gt;&lt;p&gt;Tags: 17&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>mistral-nemo</title>
@@ -678,7 +678,7 @@
     <category term="8b"/>
     <category term="70b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;A series of models from Groq that represent a significant advancement in open-source AI capabilities for tool use/function calling.&lt;/p&gt;&lt;p&gt;Pulls: 57.7K&lt;/p&gt;&lt;p&gt;Tags: 33&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A series of models from Groq that represent a significant advancement in open-source AI capabilities for tool use/function calling.&lt;/p&gt;&lt;p&gt;Pulls: 57.8K&lt;/p&gt;&lt;p&gt;Tags: 33&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>mathstral</title>
@@ -687,7 +687,7 @@
     <summary>MathΣtral: a 7B model designed for math reasoning and scientific discovery by Mistral AI.</summary>
     <updated>2024-07-16T17:04:00</updated>
     <category term="7b"/>
-    <content type="html">&lt;p&gt;MathΣtral: a 7B model designed for math reasoning and scientific discovery by Mistral AI.&lt;/p&gt;&lt;p&gt;Pulls: 33.3K&lt;/p&gt;&lt;p&gt;Tags: 17&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;MathΣtral: a 7B model designed for math reasoning and scientific discovery by Mistral AI.&lt;/p&gt;&lt;p&gt;Pulls: 33.4K&lt;/p&gt;&lt;p&gt;Tags: 17&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>codegeex4</title>
@@ -696,7 +696,7 @@
     <summary>A versatile model for AI software development scenarios, including code completion.</summary>
     <updated>2024-07-09T01:33:00</updated>
     <category term="9b"/>
-    <content type="html">&lt;p&gt;A versatile model for AI software development scenarios, including code completion.&lt;/p&gt;&lt;p&gt;Pulls: 140.1K&lt;/p&gt;&lt;p&gt;Tags: 17&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A versatile model for AI software development scenarios, including code completion.&lt;/p&gt;&lt;p&gt;Pulls: 140.2K&lt;/p&gt;&lt;p&gt;Tags: 17&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>glm4</title>
@@ -705,7 +705,7 @@
     <summary>A strong multi-lingual general language model with competitive performance to Llama 3.</summary>
     <updated>2024-07-09T01:21:00</updated>
     <category term="9b"/>
-    <content type="html">&lt;p&gt;A strong multi-lingual general language model with competitive performance to Llama 3.&lt;/p&gt;&lt;p&gt;Pulls: 125K&lt;/p&gt;&lt;p&gt;Tags: 32&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A strong multi-lingual general language model with competitive performance to Llama 3.&lt;/p&gt;&lt;p&gt;Pulls: 125.1K&lt;/p&gt;&lt;p&gt;Tags: 32&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>internlm2</title>
@@ -738,7 +738,7 @@
     <updated>2024-09-06T03:33:00</updated>
     <category term="16b"/>
     <category term="236b"/>
-    <content type="html">&lt;p&gt;An open-source Mixture-of-Experts code language model that achieves performance comparable to GPT4-Turbo in code-specific tasks.&lt;/p&gt;&lt;p&gt;Pulls: 738.7K&lt;/p&gt;&lt;p&gt;Tags: 64&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;An open-source Mixture-of-Experts code language model that achieves performance comparable to GPT4-Turbo in code-specific tasks.&lt;/p&gt;&lt;p&gt;Pulls: 739.5K&lt;/p&gt;&lt;p&gt;Tags: 64&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>qwen2</title>
@@ -761,7 +761,7 @@
     <updated>2024-06-22T12:56:00</updated>
     <category term="16b"/>
     <category term="236b"/>
-    <content type="html">&lt;p&gt;A strong, economical, and efficient Mixture-of-Experts language model.&lt;/p&gt;&lt;p&gt;Pulls: 131.2K&lt;/p&gt;&lt;p&gt;Tags: 34&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A strong, economical, and efficient Mixture-of-Experts language model.&lt;/p&gt;&lt;p&gt;Pulls: 131.3K&lt;/p&gt;&lt;p&gt;Tags: 34&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>codestral</title>
@@ -770,7 +770,7 @@
     <summary>Codestral is Mistral AI’s first-ever code model designed for code generation tasks.</summary>
     <updated>2024-09-03T21:32:00</updated>
     <category term="22b"/>
-    <content type="html">&lt;p&gt;Codestral is Mistral AI’s first-ever code model designed for code generation tasks.&lt;/p&gt;&lt;p&gt;Pulls: 233K&lt;/p&gt;&lt;p&gt;Tags: 17&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Codestral is Mistral AI’s first-ever code model designed for code generation tasks.&lt;/p&gt;&lt;p&gt;Pulls: 233.2K&lt;/p&gt;&lt;p&gt;Tags: 17&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>granite-code</title>
@@ -782,7 +782,7 @@
     <category term="8b"/>
     <category term="20b"/>
     <category term="34b"/>
-    <content type="html">&lt;p&gt;A family of open foundation models by IBM for Code Intelligence&lt;/p&gt;&lt;p&gt;Pulls: 194.1K&lt;/p&gt;&lt;p&gt;Tags: 162&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A family of open foundation models by IBM for Code Intelligence&lt;/p&gt;&lt;p&gt;Pulls: 194.3K&lt;/p&gt;&lt;p&gt;Tags: 162&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>aya</title>
@@ -801,7 +801,7 @@
     <summary>Falcon2 is an 11B parameters causal decoder-only model built by TII and trained over 5T tokens.</summary>
     <updated>2024-05-14T01:46:00</updated>
     <category term="11b"/>
-    <content type="html">&lt;p&gt;Falcon2 is an 11B parameters causal decoder-only model built by TII and trained over 5T tokens.&lt;/p&gt;&lt;p&gt;Pulls: 32.7K&lt;/p&gt;&lt;p&gt;Tags: 17&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Falcon2 is an 11B parameters causal decoder-only model built by TII and trained over 5T tokens.&lt;/p&gt;&lt;p&gt;Pulls: 32.8K&lt;/p&gt;&lt;p&gt;Tags: 17&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>llama3-chatqa</title>
@@ -821,7 +821,7 @@
     <updated>2024-05-07T21:20:00</updated>
     <category term="3.8b"/>
     <category term="vision"/>
-    <content type="html">&lt;p&gt;A new small LLaVA model fine-tuned from Phi 3 Mini.&lt;/p&gt;&lt;p&gt;Pulls: 83.1K&lt;/p&gt;&lt;p&gt;Tags: 4&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A new small LLaVA model fine-tuned from Phi 3 Mini.&lt;/p&gt;&lt;p&gt;Pulls: 83.2K&lt;/p&gt;&lt;p&gt;Tags: 4&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>llava-llama3</title>
@@ -831,7 +831,7 @@
     <updated>2024-05-07T21:01:00</updated>
     <category term="8b"/>
     <category term="vision"/>
-    <content type="html">&lt;p&gt;A LLaVA model fine-tuned from Llama 3 Instruct with better scores in several benchmarks.&lt;/p&gt;&lt;p&gt;Pulls: 511.5K&lt;/p&gt;&lt;p&gt;Tags: 4&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A LLaVA model fine-tuned from Llama 3 Instruct with better scores in several benchmarks.&lt;/p&gt;&lt;p&gt;Pulls: 513.2K&lt;/p&gt;&lt;p&gt;Tags: 4&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>llama3-gradient</title>
@@ -841,7 +841,7 @@
     <updated>2024-05-05T01:05:00</updated>
     <category term="8b"/>
     <category term="70b"/>
-    <content type="html">&lt;p&gt;This model extends LLama-3 8B's context length from 8k to over 1m tokens.&lt;/p&gt;&lt;p&gt;Pulls: 98.7K&lt;/p&gt;&lt;p&gt;Tags: 35&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;This model extends LLama-3 8B's context length from 8k to over 1m tokens.&lt;/p&gt;&lt;p&gt;Pulls: 98.8K&lt;/p&gt;&lt;p&gt;Tags: 35&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>moondream</title>
@@ -851,7 +851,7 @@
     <updated>2024-05-07T21:18:00</updated>
     <category term="1.8b"/>
     <category term="vision"/>
-    <content type="html">&lt;p&gt;moondream2 is a small vision language model designed to run efficiently on edge devices.&lt;/p&gt;&lt;p&gt;Pulls: 144.6K&lt;/p&gt;&lt;p&gt;Tags: 18&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;moondream2 is a small vision language model designed to run efficiently on edge devices.&lt;/p&gt;&lt;p&gt;Pulls: 145.8K&lt;/p&gt;&lt;p&gt;Tags: 18&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>phi3</title>
@@ -871,7 +871,7 @@
     <updated>2024-05-10T22:04:00</updated>
     <category term="8b"/>
     <category term="70b"/>
-    <content type="html">&lt;p&gt;Dolphin 2.9 is a new model with 8B and 70B sizes by Eric Hartford based on Llama 3 that has a variety of instruction, conversational, and coding skills.&lt;/p&gt;&lt;p&gt;Pulls: 298.4K&lt;/p&gt;&lt;p&gt;Tags: 53&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Dolphin 2.9 is a new model with 8B and 70B sizes by Eric Hartford based on Llama 3 that has a variety of instruction, conversational, and coding skills.&lt;/p&gt;&lt;p&gt;Pulls: 298.6K&lt;/p&gt;&lt;p&gt;Tags: 53&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>llama3</title>
@@ -890,7 +890,7 @@
     <summary>CodeQwen1.5 is a large language model pretrained on a large amount of code data.</summary>
     <updated>2024-06-24T07:00:00</updated>
     <category term="7b"/>
-    <content type="html">&lt;p&gt;CodeQwen1.5 is a large language model pretrained on a large amount of code data.&lt;/p&gt;&lt;p&gt;Pulls: 136.2K&lt;/p&gt;&lt;p&gt;Tags: 30&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;CodeQwen1.5 is a large language model pretrained on a large amount of code data.&lt;/p&gt;&lt;p&gt;Pulls: 136.3K&lt;/p&gt;&lt;p&gt;Tags: 30&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>snowflake-arctic-embed</title>
@@ -904,7 +904,7 @@
     <category term="137m"/>
     <category term="335m"/>
     <category term="embedding"/>
-    <content type="html">&lt;p&gt;A suite of text embedding models by Snowflake, optimized for performance.&lt;/p&gt;&lt;p&gt;Pulls: 700.5K&lt;/p&gt;&lt;p&gt;Tags: 16&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A suite of text embedding models by Snowflake, optimized for performance.&lt;/p&gt;&lt;p&gt;Pulls: 700.6K&lt;/p&gt;&lt;p&gt;Tags: 16&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>dbrx</title>
@@ -943,7 +943,7 @@
     <updated>2024-07-18T17:38:00</updated>
     <category term="2b"/>
     <category term="7b"/>
-    <content type="html">&lt;p&gt;CodeGemma is a collection of powerful, lightweight models that can perform a variety of coding tasks like fill-in-the-middle code completion, code generation, natural language understanding, mathematical reasoning, and instruction following.&lt;/p&gt;&lt;p&gt;Pulls: 545.6K&lt;/p&gt;&lt;p&gt;Tags: 85&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;CodeGemma is a collection of powerful, lightweight models that can perform a variety of coding tasks like fill-in-the-middle code completion, code generation, natural language understanding, mathematical reasoning, and instruction following.&lt;/p&gt;&lt;p&gt;Pulls: 545.8K&lt;/p&gt;&lt;p&gt;Tags: 85&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>command-r</title>
@@ -984,7 +984,7 @@
     <category term="3b"/>
     <category term="7b"/>
     <category term="15b"/>
-    <content type="html">&lt;p&gt;StarCoder2 is the next generation of transparently trained open code LLMs that comes in three sizes: 3B, 7B and 15B parameters.&lt;/p&gt;&lt;p&gt;Pulls: 903.1K&lt;/p&gt;&lt;p&gt;Tags: 67&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;StarCoder2 is the next generation of transparently trained open code LLMs that comes in three sizes: 3B, 7B and 15B parameters.&lt;/p&gt;&lt;p&gt;Pulls: 903.3K&lt;/p&gt;&lt;p&gt;Tags: 67&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>all-minilm</title>
@@ -995,7 +995,7 @@
     <category term="22m"/>
     <category term="33m"/>
     <category term="embedding"/>
-    <content type="html">&lt;p&gt;Embedding models on very large sentence level datasets.&lt;/p&gt;&lt;p&gt;Pulls: 327.4K&lt;/p&gt;&lt;p&gt;Tags: 10&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Embedding models on very large sentence level datasets.&lt;/p&gt;&lt;p&gt;Pulls: 328.1K&lt;/p&gt;&lt;p&gt;Tags: 10&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>nomic-embed-text</title>
@@ -1058,7 +1058,7 @@
     <summary>An experimental 1.1B parameter model trained on the new Dolphin 2.8 dataset by Eric Hartford and based on TinyLlama.</summary>
     <updated>2024-01-30T09:39:00</updated>
     <category term="1.1b"/>
-    <content type="html">&lt;p&gt;An experimental 1.1B parameter model trained on the new Dolphin 2.8 dataset by Eric Hartford and based on TinyLlama.&lt;/p&gt;&lt;p&gt;Pulls: 121.6K&lt;/p&gt;&lt;p&gt;Tags: 18&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;An experimental 1.1B parameter model trained on the new Dolphin 2.8 dataset by Eric Hartford and based on TinyLlama.&lt;/p&gt;&lt;p&gt;Pulls: 121.7K&lt;/p&gt;&lt;p&gt;Tags: 18&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>stable-code</title>
@@ -1110,7 +1110,7 @@
     <link href="https://ollama.com/library/openhermes"/>
     <summary>OpenHermes 2.5 is a 7B model fine-tuned by Teknium on Mistral with fully open datasets.</summary>
     <updated>2023-12-29T21:45:00</updated>
-    <content type="html">&lt;p&gt;OpenHermes 2.5 is a 7B model fine-tuned by Teknium on Mistral with fully open datasets.&lt;/p&gt;&lt;p&gt;Pulls: 124.3K&lt;/p&gt;&lt;p&gt;Tags: 35&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;OpenHermes 2.5 is a 7B model fine-tuned by Teknium on Mistral with fully open datasets.&lt;/p&gt;&lt;p&gt;Pulls: 124.4K&lt;/p&gt;&lt;p&gt;Tags: 35&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>notux</title>
@@ -1137,7 +1137,7 @@
     <summary>The uncensored Dolphin model based on Mistral that excels at coding tasks. Updated to version 2.8.</summary>
     <updated>2024-03-31T23:34:00</updated>
     <category term="7b"/>
-    <content type="html">&lt;p&gt;The uncensored Dolphin model based on Mistral that excels at coding tasks. Updated to version 2.8.&lt;/p&gt;&lt;p&gt;Pulls: 328.7K&lt;/p&gt;&lt;p&gt;Tags: 120&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;The uncensored Dolphin model based on Mistral that excels at coding tasks. Updated to version 2.8.&lt;/p&gt;&lt;p&gt;Pulls: 328.8K&lt;/p&gt;&lt;p&gt;Tags: 120&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>nous-hermes2</title>
@@ -1156,7 +1156,7 @@
     <summary>2.7B uncensored Dolphin model by Eric Hartford, based on the Phi language model by Microsoft Research.</summary>
     <updated>2023-12-24T16:37:00</updated>
     <category term="2.7b"/>
-    <content type="html">&lt;p&gt;2.7B uncensored Dolphin model by Eric Hartford, based on the Phi language model by Microsoft Research.&lt;/p&gt;&lt;p&gt;Pulls: 67.1K&lt;/p&gt;&lt;p&gt;Tags: 15&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;2.7B uncensored Dolphin model by Eric Hartford, based on the Phi language model by Microsoft Research.&lt;/p&gt;&lt;p&gt;Pulls: 67.2K&lt;/p&gt;&lt;p&gt;Tags: 15&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>phi</title>
@@ -1165,7 +1165,7 @@
     <summary>Phi-2: a 2.7B language model by Microsoft Research that demonstrates outstanding reasoning and language understanding capabilities.</summary>
     <updated>2024-01-06T17:10:00</updated>
     <category term="2.7b"/>
-    <content type="html">&lt;p&gt;Phi-2: a 2.7B language model by Microsoft Research that demonstrates outstanding reasoning and language understanding capabilities.&lt;/p&gt;&lt;p&gt;Pulls: 500.5K&lt;/p&gt;&lt;p&gt;Tags: 18&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Phi-2: a 2.7B language model by Microsoft Research that demonstrates outstanding reasoning and language understanding capabilities.&lt;/p&gt;&lt;p&gt;Pulls: 500.6K&lt;/p&gt;&lt;p&gt;Tags: 18&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>solar</title>
@@ -1184,7 +1184,7 @@
     <updated>2024-12-20T02:11:00</updated>
     <category term="8x7b"/>
     <category term="8x22b"/>
-    <content type="html">&lt;p&gt;Uncensored, 8x7b and 8x22b fine-tuned models based on the Mixtral mixture of experts models that excels at coding tasks. Created by Eric Hartford.&lt;/p&gt;&lt;p&gt;Pulls: 526.8K&lt;/p&gt;&lt;p&gt;Tags: 70&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Uncensored, 8x7b and 8x22b fine-tuned models based on the Mixtral mixture of experts models that excels at coding tasks. Created by Eric Hartford.&lt;/p&gt;&lt;p&gt;Pulls: 527K&lt;/p&gt;&lt;p&gt;Tags: 70&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>mixtral</title>
@@ -1195,7 +1195,7 @@
     <category term="8x7b"/>
     <category term="8x22b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;A set of Mixture of Experts (MoE) model with open weights by Mistral AI in 8x7b and 8x22b parameter sizes.&lt;/p&gt;&lt;p&gt;Pulls: 590.9K&lt;/p&gt;&lt;p&gt;Tags: 70&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A set of Mixture of Experts (MoE) model with open weights by Mistral AI in 8x7b and 8x22b parameter sizes.&lt;/p&gt;&lt;p&gt;Pulls: 591.2K&lt;/p&gt;&lt;p&gt;Tags: 70&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>bakllava</title>
@@ -1245,7 +1245,7 @@
     <updated>2023-12-11T19:53:00</updated>
     <category term="7b"/>
     <category term="67b"/>
-    <content type="html">&lt;p&gt;An advanced language model crafted with 2 trillion bilingual tokens.&lt;/p&gt;&lt;p&gt;Pulls: 134.2K&lt;/p&gt;&lt;p&gt;Tags: 64&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;An advanced language model crafted with 2 trillion bilingual tokens.&lt;/p&gt;&lt;p&gt;Pulls: 134.3K&lt;/p&gt;&lt;p&gt;Tags: 64&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>meditron</title>
@@ -1285,7 +1285,7 @@
     <category term="1.3b"/>
     <category term="6.7b"/>
     <category term="33b"/>
-    <content type="html">&lt;p&gt;DeepSeek Coder is a capable coding model trained on two trillion code and natural language tokens.&lt;/p&gt;&lt;p&gt;Pulls: 614.8K&lt;/p&gt;&lt;p&gt;Tags: 102&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;DeepSeek Coder is a capable coding model trained on two trillion code and natural language tokens.&lt;/p&gt;&lt;p&gt;Pulls: 615.3K&lt;/p&gt;&lt;p&gt;Tags: 102&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>alfred</title>
@@ -1320,7 +1320,7 @@
     <summary>A family of open-source models trained on a wide variety of data, surpassing ChatGPT on various benchmarks. Updated to version 3.5-0106.</summary>
     <updated>2024-01-10T21:45:00</updated>
     <category term="7b"/>
-    <content type="html">&lt;p&gt;A family of open-source models trained on a wide variety of data, surpassing ChatGPT on various benchmarks. Updated to version 3.5-0106.&lt;/p&gt;&lt;p&gt;Pulls: 147.1K&lt;/p&gt;&lt;p&gt;Tags: 50&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A family of open-source models trained on a wide variety of data, surpassing ChatGPT on various benchmarks. Updated to version 3.5-0106.&lt;/p&gt;&lt;p&gt;Pulls: 147.2K&lt;/p&gt;&lt;p&gt;Tags: 50&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>yi</title>
@@ -1350,7 +1350,7 @@
     <updated>2023-11-04T22:50:00</updated>
     <category term="7b"/>
     <category term="13b"/>
-    <content type="html">&lt;p&gt;An extension of Llama 2 that supports a context of up to 128k tokens.&lt;/p&gt;&lt;p&gt;Pulls: 79.2K&lt;/p&gt;&lt;p&gt;Tags: 67&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;An extension of Llama 2 that supports a context of up to 128k tokens.&lt;/p&gt;&lt;p&gt;Pulls: 79.3K&lt;/p&gt;&lt;p&gt;Tags: 67&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>xwinlm</title>
@@ -1437,7 +1437,7 @@
     <updated>2024-02-01T04:26:00</updated>
     <category term="7b"/>
     <category term="15b"/>
-    <content type="html">&lt;p&gt;SQLCoder is a code completion model fined-tuned on StarCoder for SQL generation tasks&lt;/p&gt;&lt;p&gt;Pulls: 96.6K&lt;/p&gt;&lt;p&gt;Tags: 48&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;SQLCoder is a code completion model fined-tuned on StarCoder for SQL generation tasks&lt;/p&gt;&lt;p&gt;Pulls: 96.7K&lt;/p&gt;&lt;p&gt;Tags: 48&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>mistral</title>
@@ -1447,7 +1447,7 @@
     <updated>2024-07-22T19:55:00</updated>
     <category term="7b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;The 7B model released by Mistral AI, updated to version 0.3.&lt;/p&gt;&lt;p&gt;Pulls: 10.6M&lt;/p&gt;&lt;p&gt;Tags: 84&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;The 7B model released by Mistral AI, updated to version 0.3.&lt;/p&gt;&lt;p&gt;Pulls: 10.7M&lt;/p&gt;&lt;p&gt;Tags: 84&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>falcon</title>
@@ -1467,7 +1467,7 @@
     <summary>State-of-the-art code generation model</summary>
     <updated>2024-01-05T05:09:00</updated>
     <category term="33b"/>
-    <content type="html">&lt;p&gt;State-of-the-art code generation model&lt;/p&gt;&lt;p&gt;Pulls: 118K&lt;/p&gt;&lt;p&gt;Tags: 67&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;State-of-the-art code generation model&lt;/p&gt;&lt;p&gt;Pulls: 118.1K&lt;/p&gt;&lt;p&gt;Tags: 67&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>phind-codellama</title>
@@ -1525,7 +1525,7 @@
     <category term="7b"/>
     <category term="13b"/>
     <category term="30b"/>
-    <content type="html">&lt;p&gt;Wizard Vicuna Uncensored is a 7B, 13B, and 30B parameter model based on Llama 2 uncensored by Eric Hartford.&lt;/p&gt;&lt;p&gt;Pulls: 188.1K&lt;/p&gt;&lt;p&gt;Tags: 49&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Wizard Vicuna Uncensored is a 7B, 13B, and 30B parameter model based on Llama 2 uncensored by Eric Hartford.&lt;/p&gt;&lt;p&gt;Pulls: 188.2K&lt;/p&gt;&lt;p&gt;Tags: 49&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>wizard-math</title>
@@ -1570,7 +1570,7 @@
     <category term="7b"/>
     <category term="13b"/>
     <category term="70b"/>
-    <content type="html">&lt;p&gt;A general-purpose model ranging from 3 billion parameters to 70 billion, suitable for entry-level hardware.&lt;/p&gt;&lt;p&gt;Pulls: 287.7K&lt;/p&gt;&lt;p&gt;Tags: 119&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A general-purpose model ranging from 3 billion parameters to 70 billion, suitable for entry-level hardware.&lt;/p&gt;&lt;p&gt;Pulls: 287.8K&lt;/p&gt;&lt;p&gt;Tags: 119&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>open-orca-platypus2</title>
@@ -1619,7 +1619,7 @@
     <updated>2023-10-29T02:31:00</updated>
     <category term="7b"/>
     <category term="70b"/>
-    <content type="html">&lt;p&gt;Uncensored Llama 2 model by George Sung and Jarrad Hope.&lt;/p&gt;&lt;p&gt;Pulls: 781.6K&lt;/p&gt;&lt;p&gt;Tags: 34&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Uncensored Llama 2 model by George Sung and Jarrad Hope.&lt;/p&gt;&lt;p&gt;Pulls: 782K&lt;/p&gt;&lt;p&gt;Tags: 34&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>llama2-chinese</title>
