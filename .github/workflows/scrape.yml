@@ -9,7 +9,13 @@ on:
   # For hourly at 42 minutes past the hour: '42 * * * *'
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   scrape:
@@ -17,23 +23,38 @@ jobs:
     if: ${{ !github.event.repository.is_template }}
     steps:
     - uses: actions/checkout@v4
+
+    - name: Setup Pages
+      uses: actions/configure-pages@v5
+
     - name: Set up Python 3.13
       uses: actions/setup-python@v5
       with:
         python-version: "3.13"
         cache: "pip"
+
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
+
     - name: Run the scraper
       run: |
-        python to_atom.py 'https://ollama.com/search?o=newest'
-    - name: Commit and push
-      run: |-
-        git config user.name "Automated"
-        git config user.email "actions@users.noreply.github.com"
-        git add -A
-        timestamp=$(date -u)
-        git commit -m "${timestamp}" || exit 0
-        git pull --rebase
-        git push
+        mkdir -p _site
+        cd _site
+        python ../to_atom.py 'https://ollama.com/search?o=newest'
+
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: '_site'
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: scrape
+    steps:
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
