@@ -27,7 +27,7 @@ jobs:
         pip install -r requirements.txt
     - name: Run the scraper
       run: |
-        python to_atom.py 'https://ollama.com/search?o=newest' > atom.xml
+        python to_atom.py 'https://ollama.com/search?o=newest'
     - name: Commit and push
       run: |-
         git config user.name "Automated"
