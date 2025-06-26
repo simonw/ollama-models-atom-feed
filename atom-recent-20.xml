@@ -6,7 +6,7 @@
     <name>Model Library</name>
   </author>
   <link href="https://ollama.com/search?o=newest" rel="self"/>
-  <updated>2025-06-25T06:38:49.178241+00:00</updated>
+  <updated>2025-06-26T06:38:47.576477+00:00</updated>
   <entry>
     <title>mistral-small3.2</title>
     <id>https://ollama.com/library/mistral-small3.2</id>
@@ -16,7 +16,7 @@
     <category term="24b"/>
     <category term="vision"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;An update to Mistral Small that improves on function calling, instruction following, and less repetition errors.&lt;/p&gt;&lt;p&gt;Pulls: 8,523&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;An update to Mistral Small that improves on function calling, instruction following, and less repetition errors.&lt;/p&gt;&lt;p&gt;Pulls: 10.9K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>deepseek-r1</title>
@@ -33,7 +33,7 @@
     <category term="671b"/>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;DeepSeek-R1 is a family of open reasoning models with performance approaching that of leading models, such as O3 and Gemini 2.5 Pro.&lt;/p&gt;&lt;p&gt;Pulls: 50.4M&lt;/p&gt;&lt;p&gt;Tags: 35&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;DeepSeek-R1 is a family of open reasoning models with performance approaching that of leading models, such as O3 and Gemini 2.5 Pro.&lt;/p&gt;&lt;p&gt;Pulls: 50.6M&lt;/p&gt;&lt;p&gt;Tags: 35&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>magistral</title>
@@ -44,7 +44,7 @@
     <category term="24b"/>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;Magistral is a small, efficient reasoning model with 24B parameters.&lt;/p&gt;&lt;p&gt;Pulls: 139.1K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Magistral is a small, efficient reasoning model with 24B parameters.&lt;/p&gt;&lt;p&gt;Pulls: 140.9K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>llama4</title>
@@ -56,7 +56,7 @@
     <category term="128x17b"/>
     <category term="vision"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;Meta's latest collection of multimodal models.&lt;/p&gt;&lt;p&gt;Pulls: 435.1K&lt;/p&gt;&lt;p&gt;Tags: 11&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Meta's latest collection of multimodal models.&lt;/p&gt;&lt;p&gt;Pulls: 437.7K&lt;/p&gt;&lt;p&gt;Tags: 11&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>mistral</title>
@@ -66,7 +66,7 @@
     <updated>2025-06-14T16:36:00+00:00</updated>
     <category term="7b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;The 7B model released by Mistral AI, updated to version 0.3.&lt;/p&gt;&lt;p&gt;Pulls: 15.8M&lt;/p&gt;&lt;p&gt;Tags: 84&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;The 7B model released by Mistral AI, updated to version 0.3.&lt;/p&gt;&lt;p&gt;Pulls: 15.9M&lt;/p&gt;&lt;p&gt;Tags: 84&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>qwen3</title>
@@ -84,7 +84,7 @@
     <category term="235b"/>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models.&lt;/p&gt;&lt;p&gt;Pulls: 2.9M&lt;/p&gt;&lt;p&gt;Tags: 35&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models.&lt;/p&gt;&lt;p&gt;Pulls: 3M&lt;/p&gt;&lt;p&gt;Tags: 35&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>qwen2.5-coder</title>
@@ -112,7 +112,7 @@
     <category term="32b"/>
     <category term="72b"/>
     <category term="vision"/>
-    <content type="html">&lt;p&gt;Flagship vision-language model of Qwen and also a significant leap from the previous Qwen2-VL.&lt;/p&gt;&lt;p&gt;Pulls: 306.1K&lt;/p&gt;&lt;p&gt;Tags: 17&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Flagship vision-language model of Qwen and also a significant leap from the previous Qwen2-VL.&lt;/p&gt;&lt;p&gt;Pulls: 308.5K&lt;/p&gt;&lt;p&gt;Tags: 17&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>llama3.2-vision</title>
@@ -133,7 +133,7 @@
     <updated>2025-05-21T14:34:00+00:00</updated>
     <category term="24b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;Devstral: the best open source model for coding agents&lt;/p&gt;&lt;p&gt;Pulls: 149.1K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Devstral: the best open source model for coding agents&lt;/p&gt;&lt;p&gt;Pulls: 155.8K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>phi4-reasoning</title>
@@ -142,7 +142,7 @@
     <summary>Phi 4 reasoning and reasoning plus are 14-billion parameter open-weight reasoning models that rival much larger models on complex reasoning tasks.</summary>
     <updated>2025-05-01T05:32:00+00:00</updated>
     <category term="14b"/>
-    <content type="html">&lt;p&gt;Phi 4 reasoning and reasoning plus are 14-billion parameter open-weight reasoning models that rival much larger models on complex reasoning tasks.&lt;/p&gt;&lt;p&gt;Pulls: 116.1K&lt;/p&gt;&lt;p&gt;Tags: 9&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Phi 4 reasoning and reasoning plus are 14-billion parameter open-weight reasoning models that rival much larger models on complex reasoning tasks.&lt;/p&gt;&lt;p&gt;Pulls: 119.4K&lt;/p&gt;&lt;p&gt;Tags: 9&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>phi4-mini-reasoning</title>
@@ -151,7 +151,7 @@
     <summary>Phi 4 mini reasoning is a lightweight open model that balances efficiency with advanced reasoning ability.</summary>
     <updated>2025-05-01T03:53:00+00:00</updated>
     <category term="3.8b"/>
-    <content type="html">&lt;p&gt;Phi 4 mini reasoning is a lightweight open model that balances efficiency with advanced reasoning ability.&lt;/p&gt;&lt;p&gt;Pulls: 26.9K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Phi 4 mini reasoning is a lightweight open model that balances efficiency with advanced reasoning ability.&lt;/p&gt;&lt;p&gt;Pulls: 27.1K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemma3</title>
@@ -164,7 +164,7 @@
     <category term="12b"/>
     <category term="27b"/>
     <category term="vision"/>
-    <content type="html">&lt;p&gt;The current, most capable model that runs on a single GPU.&lt;/p&gt;&lt;p&gt;Pulls: 6.9M&lt;/p&gt;&lt;p&gt;Tags: 21&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;The current, most capable model that runs on a single GPU.&lt;/p&gt;&lt;p&gt;Pulls: 7M&lt;/p&gt;&lt;p&gt;Tags: 21&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>granite3.3</title>
@@ -175,7 +175,7 @@
     <category term="2b"/>
     <category term="8b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;IBM Granite 2B and 8B models are 128K context length language models that have been fine-tuned for improved reasoning and instruction-following capabilities.&lt;/p&gt;&lt;p&gt;Pulls: 152.9K&lt;/p&gt;&lt;p&gt;Tags: 3&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;IBM Granite 2B and 8B models are 128K context length language models that have been fine-tuned for improved reasoning and instruction-following capabilities.&lt;/p&gt;&lt;p&gt;Pulls: 156.5K&lt;/p&gt;&lt;p&gt;Tags: 3&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>deepcoder</title>
@@ -185,7 +185,7 @@
     <updated>2025-04-08T22:53:00+00:00</updated>
     <category term="1.5b"/>
     <category term="14b"/>
-    <content type="html">&lt;p&gt;DeepCoder is a fully open-Source 14B coder model at O3-mini level, with a 1.5B version also available.&lt;/p&gt;&lt;p&gt;Pulls: 157.4K&lt;/p&gt;&lt;p&gt;Tags: 9&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;DeepCoder is a fully open-Source 14B coder model at O3-mini level, with a 1.5B version also available.&lt;/p&gt;&lt;p&gt;Pulls: 159.1K&lt;/p&gt;&lt;p&gt;Tags: 9&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>cogito</title>
@@ -199,7 +199,7 @@
     <category term="32b"/>
     <category term="70b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;Cogito v1 Preview is a family of hybrid reasoning models by Deep Cogito that outperform the best available open models of the same size, including counterparts from LLaMA, DeepSeek, and Qwen across most standard benchmarks.&lt;/p&gt;&lt;p&gt;Pulls: 144.3K&lt;/p&gt;&lt;p&gt;Tags: 20&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Cogito v1 Preview is a family of hybrid reasoning models by Deep Cogito that outperform the best available open models of the same size, including counterparts from LLaMA, DeepSeek, and Qwen across most standard benchmarks.&lt;/p&gt;&lt;p&gt;Pulls: 147.5K&lt;/p&gt;&lt;p&gt;Tags: 20&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>mistral-small3.1</title>
@@ -210,7 +210,7 @@
     <category term="24b"/>
     <category term="vision"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;Building upon Mistral Small 3, Mistral Small 3.1 (2503) adds state-of-the-art vision understanding and enhances long context capabilities up to 128k tokens without compromising text performance.&lt;/p&gt;&lt;p&gt;Pulls: 153.2K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Building upon Mistral Small 3, Mistral Small 3.1 (2503) adds state-of-the-art vision understanding and enhances long context capabilities up to 128k tokens without compromising text performance.&lt;/p&gt;&lt;p&gt;Pulls: 155.2K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>openthinker</title>
@@ -220,7 +220,7 @@
     <updated>2025-04-04T21:52:00+00:00</updated>
     <category term="7b"/>
     <category term="32b"/>
-    <content type="html">&lt;p&gt;A fully open-source family of reasoning models built using a dataset derived by distilling DeepSeek-R1.&lt;/p&gt;&lt;p&gt;Pulls: 532.1K&lt;/p&gt;&lt;p&gt;Tags: 15&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A fully open-source family of reasoning models built using a dataset derived by distilling DeepSeek-R1.&lt;/p&gt;&lt;p&gt;Pulls: 532.3K&lt;/p&gt;&lt;p&gt;Tags: 15&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>exaone-deep</title>
@@ -231,7 +231,7 @@
     <category term="2.4b"/>
     <category term="7.8b"/>
     <category term="32b"/>
-    <content type="html">&lt;p&gt;EXAONE Deep exhibits superior capabilities in various reasoning tasks including math and coding benchmarks, ranging from 2.4B to 32B parameters developed and released by LG AI Research.&lt;/p&gt;&lt;p&gt;Pulls: 62.3K&lt;/p&gt;&lt;p&gt;Tags: 13&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;EXAONE Deep exhibits superior capabilities in various reasoning tasks including math and coding benchmarks, ranging from 2.4B to 32B parameters developed and released by LG AI Research.&lt;/p&gt;&lt;p&gt;Pulls: 63.5K&lt;/p&gt;&lt;p&gt;Tags: 13&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>qwq</title>
