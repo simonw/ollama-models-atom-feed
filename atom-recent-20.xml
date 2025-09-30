@@ -6,7 +6,7 @@
     <name>Model Library</name>
   </author>
   <link href="https://ollama.com/search?o=newest" rel="self"/>
-  <updated>2025-09-29T06:39:17.148852+00:00</updated>
+  <updated>2025-09-30T06:38:34.397848+00:00</updated>
   <entry>
     <title>deepseek-v3.1</title>
     <id>https://ollama.com/library/deepseek-v3.1</id>
@@ -16,7 +16,7 @@
     <category term="671b"/>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;DeepSeek-V3.1-Terminus is a hybrid model that supports both thinking mode and non-thinking mode.&lt;/p&gt;&lt;p&gt;Pulls: 77.5K&lt;/p&gt;&lt;p&gt;Tags: 8&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;DeepSeek-V3.1-Terminus is a hybrid model that supports both thinking mode and non-thinking mode.&lt;/p&gt;&lt;p&gt;Pulls: 79K&lt;/p&gt;&lt;p&gt;Tags: 8&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>kimi-k2</title>
@@ -24,7 +24,7 @@
     <link href="https://ollama.com/library/kimi-k2"/>
     <summary>A state-of-the-art mixture-of-experts (MoE) language model. Kimi K2-Instruct-0905 demonstrates significant improvements in performance on public benchmarks and real-world coding agent tasks.</summary>
     <updated>2025-09-26T03:50:00+00:00</updated>
-    <content type="html">&lt;p&gt;A state-of-the-art mixture-of-experts (MoE) language model. Kimi K2-Instruct-0905 demonstrates significant improvements in performance on public benchmarks and real-world coding agent tasks.&lt;/p&gt;&lt;p&gt;Pulls: 1,181&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A state-of-the-art mixture-of-experts (MoE) language model. Kimi K2-Instruct-0905 demonstrates significant improvements in performance on public benchmarks and real-world coding agent tasks.&lt;/p&gt;&lt;p&gt;Pulls: 1,633&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>qwen3-embedding</title>
@@ -36,7 +36,7 @@
     <category term="4b"/>
     <category term="8b"/>
     <category term="embedding"/>
-    <content type="html">&lt;p&gt;Building upon the foundational models of the Qwen3 series, Qwen3 Embedding provides a comprehensive range of text embeddings models in various sizes&lt;/p&gt;&lt;p&gt;Pulls: 9,190&lt;/p&gt;&lt;p&gt;Tags: 12&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Building upon the foundational models of the Qwen3 series, Qwen3 Embedding provides a comprehensive range of text embeddings models in various sizes&lt;/p&gt;&lt;p&gt;Pulls: 10.5K&lt;/p&gt;&lt;p&gt;Tags: 12&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>qwen3-coder</title>
@@ -47,7 +47,7 @@
     <category term="30b"/>
     <category term="480b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;Alibaba's performant long context models for agentic and coding tasks.&lt;/p&gt;&lt;p&gt;Pulls: 434.4K&lt;/p&gt;&lt;p&gt;Tags: 10&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Alibaba's performant long context models for agentic and coding tasks.&lt;/p&gt;&lt;p&gt;Pulls: 438.3K&lt;/p&gt;&lt;p&gt;Tags: 10&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gpt-oss</title>
@@ -59,7 +59,7 @@
     <category term="120b"/>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;OpenAI’s open-weight models designed for powerful reasoning, agentic tasks, and versatile developer use cases.&lt;/p&gt;&lt;p&gt;Pulls: 2.9M&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;OpenAI’s open-weight models designed for powerful reasoning, agentic tasks, and versatile developer use cases.&lt;/p&gt;&lt;p&gt;Pulls: 3M&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>embeddinggemma</title>
@@ -69,7 +69,7 @@
     <updated>2025-09-09T00:17:00+00:00</updated>
     <category term="300m"/>
     <category term="embedding"/>
-    <content type="html">&lt;p&gt;EmbeddingGemma is a 300M parameter embedding model from Google.&lt;/p&gt;&lt;p&gt;Pulls: 47.8K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;EmbeddingGemma is a 300M parameter embedding model from Google.&lt;/p&gt;&lt;p&gt;Pulls: 49.6K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemma3</title>
@@ -83,7 +83,7 @@
     <category term="12b"/>
     <category term="27b"/>
     <category term="vision"/>
-    <content type="html">&lt;p&gt;The current, most capable model that runs on a single GPU.&lt;/p&gt;&lt;p&gt;Pulls: 18.6M&lt;/p&gt;&lt;p&gt;Tags: 26&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;The current, most capable model that runs on a single GPU.&lt;/p&gt;&lt;p&gt;Pulls: 18.7M&lt;/p&gt;&lt;p&gt;Tags: 26&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>qwen3</title>
@@ -101,7 +101,7 @@
     <category term="235b"/>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models.&lt;/p&gt;&lt;p&gt;Pulls: 8.9M&lt;/p&gt;&lt;p&gt;Tags: 56&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models.&lt;/p&gt;&lt;p&gt;Pulls: 9M&lt;/p&gt;&lt;p&gt;Tags: 56&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>mistral-nemo</title>
@@ -121,7 +121,7 @@
     <updated>2025-07-13T00:56:00+00:00</updated>
     <category term="7b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;The 7B model released by Mistral AI, updated to version 0.3.&lt;/p&gt;&lt;p&gt;Pulls: 19.9M&lt;/p&gt;&lt;p&gt;Tags: 84&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;The 7B model released by Mistral AI, updated to version 0.3.&lt;/p&gt;&lt;p&gt;Pulls: 20M&lt;/p&gt;&lt;p&gt;Tags: 84&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>devstral</title>
@@ -131,7 +131,7 @@
     <updated>2025-07-04T18:29:00+00:00</updated>
     <category term="24b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;Devstral: the best open source model for coding agents&lt;/p&gt;&lt;p&gt;Pulls: 368.8K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Devstral: the best open source model for coding agents&lt;/p&gt;&lt;p&gt;Pulls: 370.8K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>deepseek-r1</title>
@@ -148,7 +148,7 @@
     <category term="671b"/>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;DeepSeek-R1 is a family of open reasoning models with performance approaching that of leading models, such as O3 and Gemini 2.5 Pro.&lt;/p&gt;&lt;p&gt;Pulls: 63.7M&lt;/p&gt;&lt;p&gt;Tags: 35&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;DeepSeek-R1 is a family of open reasoning models with performance approaching that of leading models, such as O3 and Gemini 2.5 Pro.&lt;/p&gt;&lt;p&gt;Pulls: 63.9M&lt;/p&gt;&lt;p&gt;Tags: 35&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemma3n</title>
@@ -158,7 +158,7 @@
     <updated>2025-06-27T05:02:00+00:00</updated>
     <category term="e2b"/>
     <category term="e4b"/>
-    <content type="html">&lt;p&gt;Gemma 3n models are designed for efficient execution on everyday devices such as laptops, tablets or phones.&lt;/p&gt;&lt;p&gt;Pulls: 497.2K&lt;/p&gt;&lt;p&gt;Tags: 9&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Gemma 3n models are designed for efficient execution on everyday devices such as laptops, tablets or phones.&lt;/p&gt;&lt;p&gt;Pulls: 502.3K&lt;/p&gt;&lt;p&gt;Tags: 9&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>mistral-small3.2</title>
@@ -169,7 +169,7 @@
     <category term="24b"/>
     <category term="vision"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;An update to Mistral Small that improves on function calling, instruction following, and less repetition errors.&lt;/p&gt;&lt;p&gt;Pulls: 579.1K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;An update to Mistral Small that improves on function calling, instruction following, and less repetition errors.&lt;/p&gt;&lt;p&gt;Pulls: 597.2K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>magistral</title>
@@ -180,7 +180,7 @@
     <category term="24b"/>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;Magistral is a small, efficient reasoning model with 24B parameters.&lt;/p&gt;&lt;p&gt;Pulls: 414.5K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Magistral is a small, efficient reasoning model with 24B parameters.&lt;/p&gt;&lt;p&gt;Pulls: 420.5K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>llama4</title>
@@ -192,7 +192,7 @@
     <category term="128x17b"/>
     <category term="vision"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;Meta's latest collection of multimodal models.&lt;/p&gt;&lt;p&gt;Pulls: 704.3K&lt;/p&gt;&lt;p&gt;Tags: 11&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Meta's latest collection of multimodal models.&lt;/p&gt;&lt;p&gt;Pulls: 705.4K&lt;/p&gt;&lt;p&gt;Tags: 11&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>qwen2.5-coder</title>
@@ -220,7 +220,7 @@
     <category term="32b"/>
     <category term="72b"/>
     <category term="vision"/>
-    <content type="html">&lt;p&gt;Flagship vision-language model of Qwen and also a significant leap from the previous Qwen2-VL.&lt;/p&gt;&lt;p&gt;Pulls: 685.7K&lt;/p&gt;&lt;p&gt;Tags: 17&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Flagship vision-language model of Qwen and also a significant leap from the previous Qwen2-VL.&lt;/p&gt;&lt;p&gt;Pulls: 688.9K&lt;/p&gt;&lt;p&gt;Tags: 17&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>llama3.2-vision</title>
@@ -240,6 +240,6 @@
     <summary>Phi 4 reasoning and reasoning plus are 14-billion parameter open-weight reasoning models that rival much larger models on complex reasoning tasks.</summary>
     <updated>2025-05-01T05:32:00+00:00</updated>
     <category term="14b"/>
-    <content type="html">&lt;p&gt;Phi 4 reasoning and reasoning plus are 14-billion parameter open-weight reasoning models that rival much larger models on complex reasoning tasks.&lt;/p&gt;&lt;p&gt;Pulls: 489.9K&lt;/p&gt;&lt;p&gt;Tags: 9&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Phi 4 reasoning and reasoning plus are 14-billion parameter open-weight reasoning models that rival much larger models on complex reasoning tasks.&lt;/p&gt;&lt;p&gt;Pulls: 494.5K&lt;/p&gt;&lt;p&gt;Tags: 9&lt;/p&gt;</content>
   </entry>
 </feed>
