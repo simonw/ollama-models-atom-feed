@@ -6,7 +6,7 @@
     <name>Model Library</name>
   </author>
   <link href="https://ollama.com/search?o=newest" rel="self"/>
-  <updated>2025-11-28T06:39:16.791198+00:00</updated>
+  <updated>2025-11-29T06:38:23.258634+00:00</updated>
   <entry>
     <title>cogito-2.1</title>
     <id>https://ollama.com/library/cogito-2.1</id>
@@ -14,7 +14,7 @@
     <summary>The Cogito v2.1 LLMs are instruction tuned generative models. All models are released under MIT license for commercial use.</summary>
     <updated>2025-11-21T20:18:00+00:00</updated>
     <category term="671b"/>
-    <content type="html">&lt;p&gt;The Cogito v2.1 LLMs are instruction tuned generative models. All models are released under MIT license for commercial use.&lt;/p&gt;&lt;p&gt;Pulls: 5,565&lt;/p&gt;&lt;p&gt;Tags: 6&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;The Cogito v2.1 LLMs are instruction tuned generative models. All models are released under MIT license for commercial use.&lt;/p&gt;&lt;p&gt;Pulls: 6,040&lt;/p&gt;&lt;p&gt;Tags: 6&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>deepseek-ocr</title>
@@ -24,7 +24,7 @@
     <updated>2025-11-19T20:26:00+00:00</updated>
     <category term="3b"/>
     <category term="vision"/>
-    <content type="html">&lt;p&gt;DeepSeek-OCR is a vision-language model that can perform token-efficient OCR.&lt;/p&gt;&lt;p&gt;Pulls: 29.9K&lt;/p&gt;&lt;p&gt;Tags: 3&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;DeepSeek-OCR is a vision-language model that can perform token-efficient OCR.&lt;/p&gt;&lt;p&gt;Pulls: 31.6K&lt;/p&gt;&lt;p&gt;Tags: 3&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemini-3-pro-preview</title>
@@ -32,7 +32,7 @@
     <link href="https://ollama.com/library/gemini-3-pro-preview"/>
     <summary>Google's most intelligent model with SOTA reasoning and multimodal understanding, and powerful agentic and vibe coding capabilities.</summary>
     <updated>2025-11-18T17:06:00+00:00</updated>
-    <content type="html">&lt;p&gt;Google's most intelligent model with SOTA reasoning and multimodal understanding, and powerful agentic and vibe coding capabilities.&lt;/p&gt;&lt;p&gt;Pulls: 15.2K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Google's most intelligent model with SOTA reasoning and multimodal understanding, and powerful agentic and vibe coding capabilities.&lt;/p&gt;&lt;p&gt;Pulls: 16.1K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>kimi-k2-thinking</title>
@@ -40,7 +40,7 @@
     <link href="https://ollama.com/library/kimi-k2-thinking"/>
     <summary>Kimi K2 Thinking, Moonshot AI's best open-source thinking model.</summary>
     <updated>2025-11-07T01:16:00+00:00</updated>
-    <content type="html">&lt;p&gt;Kimi K2 Thinking, Moonshot AI's best open-source thinking model.&lt;/p&gt;&lt;p&gt;Pulls: 10.8K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Kimi K2 Thinking, Moonshot AI's best open-source thinking model.&lt;/p&gt;&lt;p&gt;Pulls: 11K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>qwen3-vl</title>
@@ -56,7 +56,7 @@
     <category term="235b"/>
     <category term="vision"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;The most powerful vision-language model in the Qwen model family to date.&lt;/p&gt;&lt;p&gt;Pulls: 533.5K&lt;/p&gt;&lt;p&gt;Tags: 59&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;The most powerful vision-language model in the Qwen model family to date.&lt;/p&gt;&lt;p&gt;Pulls: 543.9K&lt;/p&gt;&lt;p&gt;Tags: 59&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>granite4</title>
@@ -68,7 +68,7 @@
     <category term="1b"/>
     <category term="3b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;Granite 4 features improved instruction following (IF) and tool-calling capabilities, making them more effective in enterprise applications.&lt;/p&gt;&lt;p&gt;Pulls: 248.1K&lt;/p&gt;&lt;p&gt;Tags: 17&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Granite 4 features improved instruction following (IF) and tool-calling capabilities, making them more effective in enterprise applications.&lt;/p&gt;&lt;p&gt;Pulls: 250.1K&lt;/p&gt;&lt;p&gt;Tags: 17&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gpt-oss-safeguard</title>
@@ -80,7 +80,7 @@
     <category term="120b"/>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;gpt-oss-safeguard-20b and gpt-oss-safeguard-120b are safety reasoning models built-upon gpt-oss&lt;/p&gt;&lt;p&gt;Pulls: 18.3K&lt;/p&gt;&lt;p&gt;Tags: 3&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;gpt-oss-safeguard-20b and gpt-oss-safeguard-120b are safety reasoning models built-upon gpt-oss&lt;/p&gt;&lt;p&gt;Pulls: 18.8K&lt;/p&gt;&lt;p&gt;Tags: 3&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>minimax-m2</title>
@@ -88,7 +88,7 @@
     <link href="https://ollama.com/library/minimax-m2"/>
     <summary>MiniMax M2 is a high-efficiency large language model built for coding and agentic workflows.</summary>
     <updated>2025-10-28T18:32:00+00:00</updated>
-    <content type="html">&lt;p&gt;MiniMax M2 is a high-efficiency large language model built for coding and agentic workflows.&lt;/p&gt;&lt;p&gt;Pulls: 22.4K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;MiniMax M2 is a high-efficiency large language model built for coding and agentic workflows.&lt;/p&gt;&lt;p&gt;Pulls: 22.7K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>glm-4.6</title>
@@ -96,7 +96,7 @@
     <link href="https://ollama.com/library/glm-4.6"/>
     <summary>Advanced agentic, reasoning and coding capabilities.</summary>
     <updated>2025-10-15T05:17:00+00:00</updated>
-    <content type="html">&lt;p&gt;Advanced agentic, reasoning and coding capabilities.&lt;/p&gt;&lt;p&gt;Pulls: 25.9K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Advanced agentic, reasoning and coding capabilities.&lt;/p&gt;&lt;p&gt;Pulls: 26.3K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>qwen3</title>
@@ -114,7 +114,7 @@
     <category term="235b"/>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models.&lt;/p&gt;&lt;p&gt;Pulls: 13.9M&lt;/p&gt;&lt;p&gt;Tags: 58&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models.&lt;/p&gt;&lt;p&gt;Pulls: 14M&lt;/p&gt;&lt;p&gt;Tags: 58&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gpt-oss</title>
@@ -137,7 +137,7 @@
     <category term="671b"/>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;DeepSeek-V3.1-Terminus is a hybrid model that supports both thinking mode and non-thinking mode.&lt;/p&gt;&lt;p&gt;Pulls: 169.5K&lt;/p&gt;&lt;p&gt;Tags: 8&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;DeepSeek-V3.1-Terminus is a hybrid model that supports both thinking mode and non-thinking mode.&lt;/p&gt;&lt;p&gt;Pulls: 170.9K&lt;/p&gt;&lt;p&gt;Tags: 8&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>kimi-k2</title>
@@ -145,7 +145,7 @@
     <link href="https://ollama.com/library/kimi-k2"/>
     <summary>A state-of-the-art mixture-of-experts (MoE) language model. Kimi K2-Instruct-0905 demonstrates significant improvements in performance on public benchmarks and real-world coding agent tasks.</summary>
     <updated>2025-09-26T03:50:00+00:00</updated>
-    <content type="html">&lt;p&gt;A state-of-the-art mixture-of-experts (MoE) language model. Kimi K2-Instruct-0905 demonstrates significant improvements in performance on public benchmarks and real-world coding agent tasks.&lt;/p&gt;&lt;p&gt;Pulls: 16.8K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A state-of-the-art mixture-of-experts (MoE) language model. Kimi K2-Instruct-0905 demonstrates significant improvements in performance on public benchmarks and real-world coding agent tasks.&lt;/p&gt;&lt;p&gt;Pulls: 16.9K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>qwen3-embedding</title>
@@ -157,7 +157,7 @@
     <category term="4b"/>
     <category term="8b"/>
     <category term="embedding"/>
-    <content type="html">&lt;p&gt;Building upon the foundational models of the Qwen3 series, Qwen3 Embedding provides a comprehensive range of text embeddings models in various sizes&lt;/p&gt;&lt;p&gt;Pulls: 146.1K&lt;/p&gt;&lt;p&gt;Tags: 12&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Building upon the foundational models of the Qwen3 series, Qwen3 Embedding provides a comprehensive range of text embeddings models in various sizes&lt;/p&gt;&lt;p&gt;Pulls: 147.3K&lt;/p&gt;&lt;p&gt;Tags: 12&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>qwen3-coder</title>
@@ -168,7 +168,7 @@
     <category term="30b"/>
     <category term="480b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;Alibaba's performant long context models for agentic and coding tasks.&lt;/p&gt;&lt;p&gt;Pulls: 822.5K&lt;/p&gt;&lt;p&gt;Tags: 10&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Alibaba's performant long context models for agentic and coding tasks.&lt;/p&gt;&lt;p&gt;Pulls: 828.1K&lt;/p&gt;&lt;p&gt;Tags: 10&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>embeddinggemma</title>
@@ -178,7 +178,7 @@
     <updated>2025-09-09T00:17:00+00:00</updated>
     <category term="300m"/>
     <category term="embedding"/>
-    <content type="html">&lt;p&gt;EmbeddingGemma is a 300M parameter embedding model from Google.&lt;/p&gt;&lt;p&gt;Pulls: 269.6K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;EmbeddingGemma is a 300M parameter embedding model from Google.&lt;/p&gt;&lt;p&gt;Pulls: 271.1K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemma3</title>
@@ -192,7 +192,7 @@
     <category term="12b"/>
     <category term="27b"/>
     <category term="vision"/>
-    <content type="html">&lt;p&gt;The current, most capable model that runs on a single GPU.&lt;/p&gt;&lt;p&gt;Pulls: 26.7M&lt;/p&gt;&lt;p&gt;Tags: 26&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;The current, most capable model that runs on a single GPU.&lt;/p&gt;&lt;p&gt;Pulls: 26.8M&lt;/p&gt;&lt;p&gt;Tags: 26&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>mistral-nemo</title>
@@ -222,6 +222,6 @@
     <updated>2025-07-04T18:29:00+00:00</updated>
     <category term="24b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;Devstral: the best open source model for coding agents&lt;/p&gt;&lt;p&gt;Pulls: 480.7K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Devstral: the best open source model for coding agents&lt;/p&gt;&lt;p&gt;Pulls: 482.6K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
   </entry>
 </feed>
