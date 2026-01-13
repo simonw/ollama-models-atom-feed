@@ -6,14 +6,14 @@
     <name>Model Library</name>
   </author>
   <link href="https://ollama.com/search?o=newest" rel="self"/>
-  <updated>2026-01-12T06:40:01.318217+00:00</updated>
+  <updated>2026-01-13T06:39:45.136992+00:00</updated>
   <entry>
     <title>glm-4.7</title>
     <id>https://ollama.com/library/glm-4.7</id>
     <link href="https://ollama.com/library/glm-4.7"/>
     <summary>Advancing the Coding Capability</summary>
     <updated>2025-12-23T17:56:00+00:00</updated>
-    <content type="html">&lt;p&gt;Advancing the Coding Capability&lt;/p&gt;&lt;p&gt;Pulls: 9,993&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Advancing the Coding Capability&lt;/p&gt;&lt;p&gt;Pulls: 10.6K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>minimax-m2.1</title>
@@ -21,7 +21,7 @@
     <link href="https://ollama.com/library/minimax-m2.1"/>
     <summary>Exceptional multilingual capabilities to elevate code engineering</summary>
     <updated>2025-12-23T03:19:00+00:00</updated>
-    <content type="html">&lt;p&gt;Exceptional multilingual capabilities to elevate code engineering&lt;/p&gt;&lt;p&gt;Pulls: 6,162&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Exceptional multilingual capabilities to elevate code engineering&lt;/p&gt;&lt;p&gt;Pulls: 6,561&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemini-3-flash-preview</title>
@@ -29,7 +29,7 @@
     <link href="https://ollama.com/library/gemini-3-flash-preview"/>
     <summary>Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.</summary>
     <updated>2025-12-20T20:44:00+00:00</updated>
-    <content type="html">&lt;p&gt;Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.&lt;/p&gt;&lt;p&gt;Pulls: 27.3K&lt;/p&gt;&lt;p&gt;Tags: 2&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.&lt;/p&gt;&lt;p&gt;Pulls: 28.6K&lt;/p&gt;&lt;p&gt;Tags: 2&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>deepseek-v3.2</title>
@@ -37,7 +37,7 @@
     <link href="https://ollama.com/library/deepseek-v3.2"/>
     <summary>DeepSeek-V3.2, a model that harmonizes high computational efficiency with superior reasoning and agent performance.</summary>
     <updated>2025-12-19T18:09:00+00:00</updated>
-    <content type="html">&lt;p&gt;DeepSeek-V3.2, a model that harmonizes high computational efficiency with superior reasoning and agent performance.&lt;/p&gt;&lt;p&gt;Pulls: 11.6K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;DeepSeek-V3.2, a model that harmonizes high computational efficiency with superior reasoning and agent performance.&lt;/p&gt;&lt;p&gt;Pulls: 12.1K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>functiongemma</title>
@@ -47,7 +47,7 @@
     <updated>2025-12-18T07:03:00+00:00</updated>
     <category term="270m"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;FunctionGemma is a specialized version of Google's Gemma 3 270M model fine-tuned explicitly for function calling.&lt;/p&gt;&lt;p&gt;Pulls: 28.4K&lt;/p&gt;&lt;p&gt;Tags: 4&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;FunctionGemma is a specialized version of Google's Gemma 3 270M model fine-tuned explicitly for function calling.&lt;/p&gt;&lt;p&gt;Pulls: 30.1K&lt;/p&gt;&lt;p&gt;Tags: 4&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>nemotron-3-nano</title>
@@ -56,7 +56,7 @@
     <summary>Nemotron 3 Nano - A new Standard for Efficient, Open, and Intelligent Agentic Models</summary>
     <updated>2025-12-16T06:27:00+00:00</updated>
     <category term="30b"/>
-    <content type="html">&lt;p&gt;Nemotron 3 Nano - A new Standard for Efficient, Open, and Intelligent Agentic Models&lt;/p&gt;&lt;p&gt;Pulls: 92.4K&lt;/p&gt;&lt;p&gt;Tags: 6&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Nemotron 3 Nano - A new Standard for Efficient, Open, and Intelligent Agentic Models&lt;/p&gt;&lt;p&gt;Pulls: 95.8K&lt;/p&gt;&lt;p&gt;Tags: 6&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>olmo-3.1</title>
@@ -66,7 +66,7 @@
     <updated>2025-12-16T05:56:00+00:00</updated>
     <category term="32b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;Olmo is a series of Open language models designed to enable the science of language models. These models are pre-trained on the Dolma 3 dataset and post-trained on the Dolci datasets.&lt;/p&gt;&lt;p&gt;Pulls: 31.9K&lt;/p&gt;&lt;p&gt;Tags: 10&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Olmo is a series of Open language models designed to enable the science of language models. These models are pre-trained on the Dolma 3 dataset and post-trained on the Dolci datasets.&lt;/p&gt;&lt;p&gt;Pulls: 34.7K&lt;/p&gt;&lt;p&gt;Tags: 10&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>olmo-3</title>
@@ -76,7 +76,7 @@
     <updated>2025-12-16T05:55:00+00:00</updated>
     <category term="7b"/>
     <category term="32b"/>
-    <content type="html">&lt;p&gt;Olmo is a series of Open language models designed to enable the science of language models. These models are pre-trained on the Dolma 3 dataset and post-trained on the Dolci datasets.&lt;/p&gt;&lt;p&gt;Pulls: 53.9K&lt;/p&gt;&lt;p&gt;Tags: 15&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Olmo is a series of Open language models designed to enable the science of language models. These models are pre-trained on the Dolma 3 dataset and post-trained on the Dolci datasets.&lt;/p&gt;&lt;p&gt;Pulls: 58.6K&lt;/p&gt;&lt;p&gt;Tags: 15&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>devstral-small-2</title>
@@ -87,7 +87,7 @@
     <category term="24b"/>
     <category term="vision"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;24B model that excels at using tools to explore codebases, editing multiple files and power software engineering agents.&lt;/p&gt;&lt;p&gt;Pulls: 80K&lt;/p&gt;&lt;p&gt;Tags: 6&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;24B model that excels at using tools to explore codebases, editing multiple files and power software engineering agents.&lt;/p&gt;&lt;p&gt;Pulls: 82.7K&lt;/p&gt;&lt;p&gt;Tags: 6&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>ministral-3</title>
@@ -100,7 +100,7 @@
     <category term="14b"/>
     <category term="vision"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;The Ministral 3 family is designed for edge deployment, capable of running on a wide range of hardware.&lt;/p&gt;&lt;p&gt;Pulls: 213.7K&lt;/p&gt;&lt;p&gt;Tags: 16&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;The Ministral 3 family is designed for edge deployment, capable of running on a wide range of hardware.&lt;/p&gt;&lt;p&gt;Pulls: 220.6K&lt;/p&gt;&lt;p&gt;Tags: 16&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>rnj-1</title>
@@ -110,7 +110,7 @@
     <updated>2025-12-12T23:44:00+00:00</updated>
     <category term="8b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;Rnj-1 is a family of 8B parameter open-weight, dense models trained from scratch by Essential AI, optimized for code and STEM with capabilities on par with SOTA open-weight models.&lt;/p&gt;&lt;p&gt;Pulls: 29.3K&lt;/p&gt;&lt;p&gt;Tags: 6&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Rnj-1 is a family of 8B parameter open-weight, dense models trained from scratch by Essential AI, optimized for code and STEM with capabilities on par with SOTA open-weight models.&lt;/p&gt;&lt;p&gt;Pulls: 30.9K&lt;/p&gt;&lt;p&gt;Tags: 6&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>devstral-2</title>
@@ -120,7 +120,7 @@
     <updated>2025-12-12T01:21:00+00:00</updated>
     <category term="123b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;123B model that excels at using tools to explore codebases, editing multiple files and power software engineering agents.&lt;/p&gt;&lt;p&gt;Pulls: 34.9K&lt;/p&gt;&lt;p&gt;Tags: 6&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;123B model that excels at using tools to explore codebases, editing multiple files and power software engineering agents.&lt;/p&gt;&lt;p&gt;Pulls: 36.8K&lt;/p&gt;&lt;p&gt;Tags: 6&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>nomic-embed-text-v2-moe</title>
@@ -129,7 +129,7 @@
     <summary>nomic-embed-text-v2-moe is a multilingual MoE text embedding model that excels at multilingual retrieval.</summary>
     <updated>2025-12-10T22:09:00+00:00</updated>
     <category term="embedding"/>
-    <content type="html">&lt;p&gt;nomic-embed-text-v2-moe is a multilingual MoE text embedding model that excels at multilingual retrieval.&lt;/p&gt;&lt;p&gt;Pulls: 17.8K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;nomic-embed-text-v2-moe is a multilingual MoE text embedding model that excels at multilingual retrieval.&lt;/p&gt;&lt;p&gt;Pulls: 18.3K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>qwen3-next</title>
@@ -140,7 +140,7 @@
     <category term="80b"/>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;The first installment in the Qwen3-Next series with strong performance in terms of both parameter efficiency and inference speed.&lt;/p&gt;&lt;p&gt;Pulls: 243.2K&lt;/p&gt;&lt;p&gt;Tags: 10&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;The first installment in the Qwen3-Next series with strong performance in terms of both parameter efficiency and inference speed.&lt;/p&gt;&lt;p&gt;Pulls: 246.1K&lt;/p&gt;&lt;p&gt;Tags: 10&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemma3</title>
@@ -154,7 +154,7 @@
     <category term="12b"/>
     <category term="27b"/>
     <category term="vision"/>
-    <content type="html">&lt;p&gt;The current, most capable model that runs on a single GPU.&lt;/p&gt;&lt;p&gt;Pulls: 29.6M&lt;/p&gt;&lt;p&gt;Tags: 29&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;The current, most capable model that runs on a single GPU.&lt;/p&gt;&lt;p&gt;Pulls: 29.7M&lt;/p&gt;&lt;p&gt;Tags: 29&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>mistral-large-3</title>
@@ -162,7 +162,7 @@
     <link href="https://ollama.com/library/mistral-large-3"/>
     <summary>A general-purpose multimodal mixture-of-experts model for production-grade tasks and enterprise workloads.</summary>
     <updated>2025-12-02T23:19:00+00:00</updated>
-    <content type="html">&lt;p&gt;A general-purpose multimodal mixture-of-experts model for production-grade tasks and enterprise workloads.&lt;/p&gt;&lt;p&gt;Pulls: 9,203&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A general-purpose multimodal mixture-of-experts model for production-grade tasks and enterprise workloads.&lt;/p&gt;&lt;p&gt;Pulls: 9,526&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>cogito-2.1</title>
@@ -171,7 +171,7 @@
     <summary>The Cogito v2.1 LLMs are instruction tuned generative models. All models are released under MIT license for commercial use.</summary>
     <updated>2025-11-21T20:18:00+00:00</updated>
     <category term="671b"/>
-    <content type="html">&lt;p&gt;The Cogito v2.1 LLMs are instruction tuned generative models. All models are released under MIT license for commercial use.&lt;/p&gt;&lt;p&gt;Pulls: 34.6K&lt;/p&gt;&lt;p&gt;Tags: 6&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;The Cogito v2.1 LLMs are instruction tuned generative models. All models are released under MIT license for commercial use.&lt;/p&gt;&lt;p&gt;Pulls: 36.1K&lt;/p&gt;&lt;p&gt;Tags: 6&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>deepseek-ocr</title>
@@ -181,7 +181,7 @@
     <updated>2025-11-19T20:26:00+00:00</updated>
     <category term="3b"/>
     <category term="vision"/>
-    <content type="html">&lt;p&gt;DeepSeek-OCR is a vision-language model that can perform token-efficient OCR.&lt;/p&gt;&lt;p&gt;Pulls: 95.9K&lt;/p&gt;&lt;p&gt;Tags: 3&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;DeepSeek-OCR is a vision-language model that can perform token-efficient OCR.&lt;/p&gt;&lt;p&gt;Pulls: 97.6K&lt;/p&gt;&lt;p&gt;Tags: 3&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemini-3-pro-preview</title>
@@ -189,7 +189,7 @@
     <link href="https://ollama.com/library/gemini-3-pro-preview"/>
     <summary>Google's most intelligent model with SOTA reasoning and multimodal understanding, and powerful agentic and vibe coding capabilities.</summary>
     <updated>2025-11-18T17:06:00+00:00</updated>
-    <content type="html">&lt;p&gt;Google's most intelligent model with SOTA reasoning and multimodal understanding, and powerful agentic and vibe coding capabilities.&lt;/p&gt;&lt;p&gt;Pulls: 77.9K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Google's most intelligent model with SOTA reasoning and multimodal understanding, and powerful agentic and vibe coding capabilities.&lt;/p&gt;&lt;p&gt;Pulls: 80.7K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>kimi-k2-thinking</title>
@@ -197,6 +197,6 @@
     <link href="https://ollama.com/library/kimi-k2-thinking"/>
     <summary>Kimi K2 Thinking, Moonshot AI's best open-source thinking model.</summary>
     <updated>2025-11-07T01:16:00+00:00</updated>
-    <content type="html">&lt;p&gt;Kimi K2 Thinking, Moonshot AI's best open-source thinking model.&lt;/p&gt;&lt;p&gt;Pulls: 19.4K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Kimi K2 Thinking, Moonshot AI's best open-source thinking model.&lt;/p&gt;&lt;p&gt;Pulls: 19.8K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
   </entry>
 </feed>
