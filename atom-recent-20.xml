@@ -6,7 +6,7 @@
     <name>Model Library</name>
   </author>
   <link href="https://ollama.com/search?o=newest" rel="self"/>
-  <updated>2026-02-21T06:40:28.611229+00:00</updated>
+  <updated>2026-02-22T06:41:12.035665+00:00</updated>
   <entry>
     <title>qwen3.5</title>
     <id>https://ollama.com/library/qwen3.5</id>
@@ -66,7 +66,7 @@
     <updated>2026-01-24T23:40:00+00:00</updated>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;As the strongest model in the 30B class, GLM-4.7-Flash offers a new option for lightweight deployment that balances performance and efficiency.&lt;/p&gt;&lt;p&gt;Pulls: 269.2K&lt;/p&gt;&lt;p&gt;Tags: 4&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;As the strongest model in the 30B class, GLM-4.7-Flash offers a new option for lightweight deployment that balances performance and efficiency.&lt;/p&gt;&lt;p&gt;Pulls: 269.3K&lt;/p&gt;&lt;p&gt;Tags: 4&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>lfm2.5-thinking</title>
@@ -88,7 +88,7 @@
     <category term="12b"/>
     <category term="27b"/>
     <category term="vision"/>
-    <content type="html">&lt;p&gt;A new collection of open translation models built on Gemma 3, helping people communicate across 55 languages.&lt;/p&gt;&lt;p&gt;Pulls: 351.8K&lt;/p&gt;&lt;p&gt;Tags: 13&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A new collection of open translation models built on Gemma 3, helping people communicate across 55 languages.&lt;/p&gt;&lt;p&gt;Pulls: 351.9K&lt;/p&gt;&lt;p&gt;Tags: 13&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>glm-4.7</title>
