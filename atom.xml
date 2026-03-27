@@ -6,7 +6,7 @@
     <name>Model Library</name>
   </author>
   <link href="https://ollama.com/search?o=newest" rel="self"/>
-  <updated>2026-03-26T06:48:13.890300+00:00</updated>
+  <updated>2026-03-27T06:48:27.588313+00:00</updated>
   <entry>
     <title>nemotron-cascade-2</title>
     <id>https://ollama.com/library/nemotron-cascade-2</id>
@@ -16,7 +16,7 @@
     <category term="30b"/>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;An open 30B MoE model from NVIDIA with 3B activated parameters that delivers strong reasoning and agentic capabilities.&lt;/p&gt;&lt;p&gt;Pulls: 20.7K&lt;/p&gt;&lt;p&gt;Tags: 3&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;An open 30B MoE model from NVIDIA with 3B activated parameters that delivers strong reasoning and agentic capabilities.&lt;/p&gt;&lt;p&gt;Pulls: 25.1K&lt;/p&gt;&lt;p&gt;Tags: 3&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>minimax-m2.7</title>
@@ -24,7 +24,7 @@
     <link href="https://ollama.com/library/minimax-m2.7"/>
     <summary>MiniMax's M2-series model for coding, agentic workflows, and professional productivity.</summary>
     <updated>2026-03-18T18:05:00+00:00</updated>
-    <content type="html">&lt;p&gt;MiniMax's M2-series model for coding, agentic workflows, and professional productivity.&lt;/p&gt;&lt;p&gt;Pulls: 28.7K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;MiniMax's M2-series model for coding, agentic workflows, and professional productivity.&lt;/p&gt;&lt;p&gt;Pulls: 31.4K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>nemotron-3-nano</title>
@@ -36,7 +36,7 @@
     <category term="30b"/>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;Nemotron-3-Nano is a new Standard for Efficient, Open, and Intelligent Agentic Models, now updated with a 4B parameter count model.&lt;/p&gt;&lt;p&gt;Pulls: 289.3K&lt;/p&gt;&lt;p&gt;Tags: 9&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Nemotron-3-Nano is a new Standard for Efficient, Open, and Intelligent Agentic Models, now updated with a 4B parameter count model.&lt;/p&gt;&lt;p&gt;Pulls: 295.3K&lt;/p&gt;&lt;p&gt;Tags: 9&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>nemotron-3-super</title>
@@ -47,7 +47,7 @@
     <category term="120b"/>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;NVIDIA Nemotron 3 Super is a 120B open MoE model activating just 12B parameters to deliver maximum compute efficiency and accuracy for complex multi-agent applications.&lt;/p&gt;&lt;p&gt;Pulls: 96.8K&lt;/p&gt;&lt;p&gt;Tags: 7&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;NVIDIA Nemotron 3 Super is a 120B open MoE model activating just 12B parameters to deliver maximum compute efficiency and accuracy for complex multi-agent applications.&lt;/p&gt;&lt;p&gt;Pulls: 101.2K&lt;/p&gt;&lt;p&gt;Tags: 7&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>qwen3.5</title>
@@ -65,7 +65,7 @@
     <category term="vision"/>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;Qwen 3.5 is a family of open-source multimodal models that delivers exceptional utility and performance.&lt;/p&gt;&lt;p&gt;Pulls: 3.3M&lt;/p&gt;&lt;p&gt;Tags: 30&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Qwen 3.5 is a family of open-source multimodal models that delivers exceptional utility and performance.&lt;/p&gt;&lt;p&gt;Pulls: 3.5M&lt;/p&gt;&lt;p&gt;Tags: 30&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>lfm2</title>
@@ -75,7 +75,7 @@
     <updated>2026-02-24T01:17:00+00:00</updated>
     <category term="24b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;LFM2 is a family of hybrid models designed for on-device deployment. LFM2-24B-A2B is the largest model in the family, scaling the architecture to 24 billion parameters while keeping inference efficient.&lt;/p&gt;&lt;p&gt;Pulls: 992.4K&lt;/p&gt;&lt;p&gt;Tags: 6&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;LFM2 is a family of hybrid models designed for on-device deployment. LFM2-24B-A2B is the largest model in the family, scaling the architecture to 24 billion parameters while keeping inference efficient.&lt;/p&gt;&lt;p&gt;Pulls: 995.7K&lt;/p&gt;&lt;p&gt;Tags: 6&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>minimax-m2.5</title>
@@ -83,7 +83,7 @@
     <link href="https://ollama.com/library/minimax-m2.5"/>
     <summary>MiniMax-M2.5 is a state-of-the-art large language model designed for real-world productivity and coding tasks.</summary>
     <updated>2026-02-12T09:22:00+00:00</updated>
-    <content type="html">&lt;p&gt;MiniMax-M2.5 is a state-of-the-art large language model designed for real-world productivity and coding tasks.&lt;/p&gt;&lt;p&gt;Pulls: 144.5K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;MiniMax-M2.5 is a state-of-the-art large language model designed for real-world productivity and coding tasks.&lt;/p&gt;&lt;p&gt;Pulls: 145.7K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>glm-5</title>
@@ -91,7 +91,7 @@
     <link href="https://ollama.com/library/glm-5"/>
     <summary>A strong reasoning and agentic model from Z.ai with 744B total parameters (40B active), built for complex systems engineering and long-horizon tasks.</summary>
     <updated>2026-02-11T18:43:00+00:00</updated>
-    <content type="html">&lt;p&gt;A strong reasoning and agentic model from Z.ai with 744B total parameters (40B active), built for complex systems engineering and long-horizon tasks.&lt;/p&gt;&lt;p&gt;Pulls: 135.8K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A strong reasoning and agentic model from Z.ai with 744B total parameters (40B active), built for complex systems engineering and long-horizon tasks.&lt;/p&gt;&lt;p&gt;Pulls: 138.1K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>qwen3-coder-next</title>
@@ -100,7 +100,7 @@
     <summary>Qwen3-Coder-Next is a coding-focused language model from Alibaba's Qwen team, optimized for agentic coding workflows and local development.</summary>
     <updated>2026-02-06T05:23:00+00:00</updated>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;Qwen3-Coder-Next is a coding-focused language model from Alibaba's Qwen team, optimized for agentic coding workflows and local development.&lt;/p&gt;&lt;p&gt;Pulls: 909.6K&lt;/p&gt;&lt;p&gt;Tags: 4&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Qwen3-Coder-Next is a coding-focused language model from Alibaba's Qwen team, optimized for agentic coding workflows and local development.&lt;/p&gt;&lt;p&gt;Pulls: 914.8K&lt;/p&gt;&lt;p&gt;Tags: 4&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>glm-ocr</title>
@@ -110,7 +110,7 @@
     <updated>2026-02-02T23:29:00+00:00</updated>
     <category term="vision"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;GLM-OCR is a multimodal OCR model for complex document understanding, built on the GLM-V encoder–decoder architecture.&lt;/p&gt;&lt;p&gt;Pulls: 155.9K&lt;/p&gt;&lt;p&gt;Tags: 3&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;GLM-OCR is a multimodal OCR model for complex document understanding, built on the GLM-V encoder–decoder architecture.&lt;/p&gt;&lt;p&gt;Pulls: 158.6K&lt;/p&gt;&lt;p&gt;Tags: 3&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>kimi-k2.5</title>
@@ -118,7 +118,7 @@
     <link href="https://ollama.com/library/kimi-k2.5"/>
     <summary>Kimi K2.5 is an open-source, native multimodal agentic model that seamlessly integrates vision and language understanding with advanced agentic capabilities, instant and thinking modes, as well as conversational and agentic paradigms.</summary>
     <updated>2026-01-27T07:29:00+00:00</updated>
-    <content type="html">&lt;p&gt;Kimi K2.5 is an open-source, native multimodal agentic model that seamlessly integrates vision and language understanding with advanced agentic capabilities, instant and thinking modes, as well as conversational and agentic paradigms.&lt;/p&gt;&lt;p&gt;Pulls: 184.7K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Kimi K2.5 is an open-source, native multimodal agentic model that seamlessly integrates vision and language understanding with advanced agentic capabilities, instant and thinking modes, as well as conversational and agentic paradigms.&lt;/p&gt;&lt;p&gt;Pulls: 188.4K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>glm-4.7-flash</title>
@@ -128,7 +128,7 @@
     <updated>2026-01-24T23:40:00+00:00</updated>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;As the strongest model in the 30B class, GLM-4.7-Flash offers a new option for lightweight deployment that balances performance and efficiency.&lt;/p&gt;&lt;p&gt;Pulls: 887K&lt;/p&gt;&lt;p&gt;Tags: 4&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;As the strongest model in the 30B class, GLM-4.7-Flash offers a new option for lightweight deployment that balances performance and efficiency.&lt;/p&gt;&lt;p&gt;Pulls: 898.7K&lt;/p&gt;&lt;p&gt;Tags: 4&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>lfm2.5-thinking</title>
@@ -150,7 +150,7 @@
     <category term="12b"/>
     <category term="27b"/>
     <category term="vision"/>
-    <content type="html">&lt;p&gt;A new collection of open translation models built on Gemma 3, helping people communicate across 55 languages.&lt;/p&gt;&lt;p&gt;Pulls: 792.2K&lt;/p&gt;&lt;p&gt;Tags: 13&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A new collection of open translation models built on Gemma 3, helping people communicate across 55 languages.&lt;/p&gt;&lt;p&gt;Pulls: 807K&lt;/p&gt;&lt;p&gt;Tags: 13&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>glm-4.7</title>
@@ -158,7 +158,7 @@
     <link href="https://ollama.com/library/glm-4.7"/>
     <summary>Advancing the Coding Capability</summary>
     <updated>2025-12-23T17:56:00+00:00</updated>
-    <content type="html">&lt;p&gt;Advancing the Coding Capability&lt;/p&gt;&lt;p&gt;Pulls: 75.3K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Advancing the Coding Capability&lt;/p&gt;&lt;p&gt;Pulls: 76.1K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>minimax-m2.1</title>
@@ -166,7 +166,7 @@
     <link href="https://ollama.com/library/minimax-m2.1"/>
     <summary>Exceptional multilingual capabilities to elevate code engineering</summary>
     <updated>2025-12-23T03:19:00+00:00</updated>
-    <content type="html">&lt;p&gt;Exceptional multilingual capabilities to elevate code engineering&lt;/p&gt;&lt;p&gt;Pulls: 30.7K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Exceptional multilingual capabilities to elevate code engineering&lt;/p&gt;&lt;p&gt;Pulls: 31.1K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemini-3-flash-preview</title>
@@ -174,7 +174,7 @@
     <link href="https://ollama.com/library/gemini-3-flash-preview"/>
     <summary>Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.</summary>
     <updated>2025-12-20T20:44:00+00:00</updated>
-    <content type="html">&lt;p&gt;Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.&lt;/p&gt;&lt;p&gt;Pulls: 103.8K&lt;/p&gt;&lt;p&gt;Tags: 2&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.&lt;/p&gt;&lt;p&gt;Pulls: 105.2K&lt;/p&gt;&lt;p&gt;Tags: 2&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>functiongemma</title>
@@ -184,7 +184,7 @@
     <updated>2025-12-18T07:03:00+00:00</updated>
     <category term="270m"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;FunctionGemma is a specialized version of Google's Gemma 3 270M model fine-tuned explicitly for function calling.&lt;/p&gt;&lt;p&gt;Pulls: 112.4K&lt;/p&gt;&lt;p&gt;Tags: 4&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;FunctionGemma is a specialized version of Google's Gemma 3 270M model fine-tuned explicitly for function calling.&lt;/p&gt;&lt;p&gt;Pulls: 114.2K&lt;/p&gt;&lt;p&gt;Tags: 4&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>olmo-3.1</title>
@@ -194,7 +194,7 @@
     <updated>2025-12-16T05:56:00+00:00</updated>
     <category term="32b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;Olmo is a series of Open language models designed to enable the science of language models. These models are pre-trained on the Dolma 3 dataset and post-trained on the Dolci datasets.&lt;/p&gt;&lt;p&gt;Pulls: 182.2K&lt;/p&gt;&lt;p&gt;Tags: 10&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Olmo is a series of Open language models designed to enable the science of language models. These models are pre-trained on the Dolma 3 dataset and post-trained on the Dolci datasets.&lt;/p&gt;&lt;p&gt;Pulls: 186.4K&lt;/p&gt;&lt;p&gt;Tags: 10&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>olmo-3</title>
@@ -204,6 +204,6 @@
     <updated>2025-12-16T05:55:00+00:00</updated>
     <category term="7b"/>
     <category term="32b"/>
-    <content type="html">&lt;p&gt;Olmo is a series of Open language models designed to enable the science of language models. These models are pre-trained on the Dolma 3 dataset and post-trained on the Dolci datasets.&lt;/p&gt;&lt;p&gt;Pulls: 289.9K&lt;/p&gt;&lt;p&gt;Tags: 15&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Olmo is a series of Open language models designed to enable the science of language models. These models are pre-trained on the Dolma 3 dataset and post-trained on the Dolci datasets.&lt;/p&gt;&lt;p&gt;Pulls: 296.3K&lt;/p&gt;&lt;p&gt;Tags: 15&lt;/p&gt;</content>
   </entry>
 </feed>
