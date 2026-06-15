@@ -6,7 +6,7 @@
     <name>Model Library</name>
   </author>
   <link href="https://ollama.com/search?o=newest" rel="self"/>
-  <updated>2026-06-14T07:58:39.372637+00:00</updated>
+  <updated>2026-06-15T08:31:41.468886+00:00</updated>
   <entry>
     <title>kimi-k2.7-code</title>
     <id>https://ollama.com/library/kimi-k2.7-code</id>
@@ -16,7 +16,7 @@
     <category term="vision"/>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;Kimi K2.7 Code is Moonshot AI's coding-focused agentic model built upon Kimi K2.6, with substantial improvements on real-world long-horizon coding tasks and roughly 30% lower thinking-token usage.&lt;/p&gt;&lt;p&gt;Pulls: 5,928&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Kimi K2.7 Code is Moonshot AI's coding-focused agentic model built upon Kimi K2.6, with substantial improvements on real-world long-horizon coding tasks and roughly 30% lower thinking-token usage.&lt;/p&gt;&lt;p&gt;Pulls: 9,238&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>granite4.1-guardian</title>
@@ -27,7 +27,7 @@
     <category term="8b"/>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;Granite Guardian 4.1 is a specialized safety and judging model from IBM Research that evaluates whether LLM prompts and responses meet specified harm criteria.&lt;/p&gt;&lt;p&gt;Pulls: 125&lt;/p&gt;&lt;p&gt;Tags: 16&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Granite Guardian 4.1 is a specialized safety and judging model from IBM Research that evaluates whether LLM prompts and responses meet specified harm criteria.&lt;/p&gt;&lt;p&gt;Pulls: 174&lt;/p&gt;&lt;p&gt;Tags: 16&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>nemotron-3-ultra</title>
@@ -37,7 +37,7 @@
     <updated>2026-06-03T23:46:00+00:00</updated>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;NVIDIA Nemotron 3 Ultra is built for high-throughput reasoning and long-running agent workflows.&lt;/p&gt;&lt;p&gt;Pulls: 11.9K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;NVIDIA Nemotron 3 Ultra is built for high-throughput reasoning and long-running agent workflows.&lt;/p&gt;&lt;p&gt;Pulls: 12.7K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>minicpm-v4.5</title>
@@ -47,7 +47,7 @@
     <updated>2026-06-02T08:02:00+00:00</updated>
     <category term="8b"/>
     <category term="vision"/>
-    <content type="html">&lt;p&gt;A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone&lt;/p&gt;&lt;p&gt;Pulls: 1,623&lt;/p&gt;&lt;p&gt;Tags: 13&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone&lt;/p&gt;&lt;p&gt;Pulls: 2,019&lt;/p&gt;&lt;p&gt;Tags: 13&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>minicpm-v4.6</title>
@@ -57,7 +57,7 @@
     <updated>2026-06-02T07:54:00+00:00</updated>
     <category term="1b"/>
     <category term="vision"/>
-    <content type="html">&lt;p&gt;A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone&lt;/p&gt;&lt;p&gt;Pulls: 2,373&lt;/p&gt;&lt;p&gt;Tags: 13&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone&lt;/p&gt;&lt;p&gt;Pulls: 2,977&lt;/p&gt;&lt;p&gt;Tags: 13&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>qwen3.6</title>
@@ -70,7 +70,7 @@
     <category term="vision"/>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;Qwen3.6 delivers substantial upgrades in agentic coding and thinking preservation than previous Qwen models.&lt;/p&gt;&lt;p&gt;Pulls: 2.3M&lt;/p&gt;&lt;p&gt;Tags: 30&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Qwen3.6 delivers substantial upgrades in agentic coding and thinking preservation than previous Qwen models.&lt;/p&gt;&lt;p&gt;Pulls: 2.4M&lt;/p&gt;&lt;p&gt;Tags: 30&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>minimax-m3</title>
@@ -81,7 +81,7 @@
     <category term="vision"/>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;MiniMax M3: Coding &amp; Agentic Frontier. 1M context window. Native Multimodality.&lt;/p&gt;&lt;p&gt;Pulls: 48.8K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;MiniMax M3: Coding &amp; Agentic Frontier. 1M context window. Native Multimodality.&lt;/p&gt;&lt;p&gt;Pulls: 51K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>lfm2.5</title>
@@ -92,7 +92,7 @@
     <category term="8b"/>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;LFM2.5-8B-A1B, an edge model built for fast, reliable tool calling on consumer hardware.&lt;/p&gt;&lt;p&gt;Pulls: 22.2K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;LFM2.5-8B-A1B, an edge model built for fast, reliable tool calling on consumer hardware.&lt;/p&gt;&lt;p&gt;Pulls: 23.6K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>granite4.1</title>
@@ -104,7 +104,7 @@
     <category term="8b"/>
     <category term="30b"/>
     <category term="tools"/>
-    <content type="html">&lt;p&gt;IBM Granite Models are a family of enterprise-ready, open foundation models that support multilingual capabilities, coding, retrieval-augmented generation (RAG), tool use, and structured JSON output. Released under Apache 2.0 license.&lt;/p&gt;&lt;p&gt;Pulls: 147.4K&lt;/p&gt;&lt;p&gt;Tags: 48&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;IBM Granite Models are a family of enterprise-ready, open foundation models that support multilingual capabilities, coding, retrieval-augmented generation (RAG), tool use, and structured JSON output. Released under Apache 2.0 license.&lt;/p&gt;&lt;p&gt;Pulls: 150.1K&lt;/p&gt;&lt;p&gt;Tags: 48&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>mistral-medium-3.5</title>
@@ -116,7 +116,7 @@
     <category term="vision"/>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;Mistral Medium 3.5 is the first flagship model of Mistral AI that merged instruction-following, reasoning, and coding in a single set of 128B weights.&lt;/p&gt;&lt;p&gt;Pulls: 34.6K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Mistral Medium 3.5 is the first flagship model of Mistral AI that merged instruction-following, reasoning, and coding in a single set of 128B weights.&lt;/p&gt;&lt;p&gt;Pulls: 35.3K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>laguna-xs.2</title>
@@ -126,7 +126,7 @@
     <updated>2026-04-27T20:57:00+00:00</updated>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;Laguna XS.2 is a 33B total parameter Mixture-of-Experts model with 3B activated parameters per token designed for agentic coding and long-horizon work on a local machine.&lt;/p&gt;&lt;p&gt;Pulls: 16K&lt;/p&gt;&lt;p&gt;Tags: 7&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Laguna XS.2 is a 33B total parameter Mixture-of-Experts model with 3B activated parameters per token designed for agentic coding and long-horizon work on a local machine.&lt;/p&gt;&lt;p&gt;Pulls: 16.1K&lt;/p&gt;&lt;p&gt;Tags: 7&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>nemotron3</title>
@@ -139,7 +139,7 @@
     <category term="tools"/>
     <category term="thinking"/>
     <category term="audio"/>
-    <content type="html">&lt;p&gt;NVIDIA Nemotron 3 Nano Omni is a multimodal large language model that unifies video, audio, image, and text understanding to support enterprise-grade Q&amp;A, summarization, transcription, and document intelligence workflows.&lt;/p&gt;&lt;p&gt;Pulls: 604K&lt;/p&gt;&lt;p&gt;Tags: 4&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;NVIDIA Nemotron 3 Nano Omni is a multimodal large language model that unifies video, audio, image, and text understanding to support enterprise-grade Q&amp;A, summarization, transcription, and document intelligence workflows.&lt;/p&gt;&lt;p&gt;Pulls: 604.5K&lt;/p&gt;&lt;p&gt;Tags: 4&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>deepseek-v4-pro</title>
@@ -149,7 +149,7 @@
     <updated>2026-04-27T03:44:00+00:00</updated>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;DeepSeek-V4-Pro is a frontier Mixture-of-Experts model with a 1M-token context window and three reasoning modes.&lt;/p&gt;&lt;p&gt;Pulls: 121.2K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;DeepSeek-V4-Pro is a frontier Mixture-of-Experts model with a 1M-token context window and three reasoning modes.&lt;/p&gt;&lt;p&gt;Pulls: 123.1K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>deepseek-v4-flash</title>
@@ -159,7 +159,7 @@
     <updated>2026-04-24T08:29:00+00:00</updated>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;DeepSeek-V4-Flash is a preview of the DeepSeek-V4 series, a Mixture-of-Experts model with 284B total parameters and 13B activated, built for efficient reasoning across a 1M-token context window.&lt;/p&gt;&lt;p&gt;Pulls: 117.5K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;DeepSeek-V4-Flash is a preview of the DeepSeek-V4 series, a Mixture-of-Experts model with 284B total parameters and 13B activated, built for efficient reasoning across a 1M-token context window.&lt;/p&gt;&lt;p&gt;Pulls: 118.7K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>kimi-k2.6</title>
@@ -170,7 +170,7 @@
     <category term="vision"/>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;Kimi K2.6 is an open-source, native multimodal agentic model that advances practical capabilities in long-horizon coding, coding-driven design, proactive autonomous execution, and swarm-based task orchestration.&lt;/p&gt;&lt;p&gt;Pulls: 299.2K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Kimi K2.6 is an open-source, native multimodal agentic model that advances practical capabilities in long-horizon coding, coding-driven design, proactive autonomous execution, and swarm-based task orchestration.&lt;/p&gt;&lt;p&gt;Pulls: 301.9K&lt;/p&gt;&lt;p&gt;Tags: 1&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>medgemma</title>
@@ -181,7 +181,7 @@
     <category term="4b"/>
     <category term="27b"/>
     <category term="vision"/>
-    <content type="html">&lt;p&gt;MedGemma is a collection of Gemma 3 variants that are trained for performance on medical text and image comprehension.&lt;/p&gt;&lt;p&gt;Pulls: 54.8K&lt;/p&gt;&lt;p&gt;Tags: 9&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;MedGemma is a collection of Gemma 3 variants that are trained for performance on medical text and image comprehension.&lt;/p&gt;&lt;p&gt;Pulls: 58.1K&lt;/p&gt;&lt;p&gt;Tags: 9&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>medgemma1.5</title>
@@ -191,7 +191,7 @@
     <updated>2026-04-16T00:04:00+00:00</updated>
     <category term="4b"/>
     <category term="vision"/>
-    <content type="html">&lt;p&gt;MedGemma 1.5 4B is an updated version of the MedGemma 4B model.&lt;/p&gt;&lt;p&gt;Pulls: 28.2K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;MedGemma 1.5 4B is an updated version of the MedGemma 4B model.&lt;/p&gt;&lt;p&gt;Pulls: 29.7K&lt;/p&gt;&lt;p&gt;Tags: 5&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>glm-5.1</title>
@@ -212,7 +212,7 @@
     <category term="30b"/>
     <category term="tools"/>
     <category term="thinking"/>
-    <content type="html">&lt;p&gt;An open 30B MoE model from NVIDIA with 3B activated parameters that delivers strong reasoning and agentic capabilities.&lt;/p&gt;&lt;p&gt;Pulls: 123.3K&lt;/p&gt;&lt;p&gt;Tags: 3&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;An open 30B MoE model from NVIDIA with 3B activated parameters that delivers strong reasoning and agentic capabilities.&lt;/p&gt;&lt;p&gt;Pulls: 123.6K&lt;/p&gt;&lt;p&gt;Tags: 3&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>minimax-m2.7</title>
